@@ -1,0 +1,182 @@
+[
+    {
+        "posicion": 1,
+        "equipo": "Arsenal",
+        "puntos": 71,
+        "jornadas": 31,
+        "ganados": 22,
+        "perdidos": 4,
+        "empates": 5
+    },
+    {
+        "posicion": 2,
+        "equipo": "Liverpool",
+        "puntos": 71,
+        "jornadas": 31,
+        "ganados": 21,
+        "perdidos": 2,
+        "empates": 8
+    },
+    {
+        "posicion": 3,
+        "equipo": "Manchester City",
+        "puntos": 70,
+        "jornadas": 31,
+        "ganados": 21,
+        "perdidos": 3,
+        "empates": 7
+    },
+    {
+        "posicion": 4,
+        "equipo": "Tottenham Hotspur",
+        "puntos": 60,
+        "jornadas": 31,
+        "ganados": 18,
+        "perdidos": 7,
+        "empates": 6
+    },
+    {
+        "posicion": 5,
+        "equipo": "Aston Villa",
+        "puntos": 60,
+        "jornadas": 32,
+        "ganados": 18,
+        "perdidos": 8,
+        "empates": 6
+    },
+    {
+        "posicion": 6,
+        "equipo": "Manchester United",
+        "puntos": 49,
+        "jornadas": 31,
+        "ganados": 15,
+        "perdidos": 12,
+        "empates": 4
+    },
+    {
+        "posicion": 7,
+        "equipo": "West Ham United",
+        "puntos": 48,
+        "jornadas": 32,
+        "ganados": 13,
+        "perdidos": 10,
+        "empates": 9
+    },
+    {
+        "posicion": 8,
+        "equipo": "Newcastle United",
+        "puntos": 47,
+        "jornadas": 31,
+        "ganados": 14,
+        "perdidos": 12,
+        "empates": 5
+    },
+    {
+        "posicion": 9,
+        "equipo": "Chelsea",
+        "puntos": 44,
+        "jornadas": 30,
+        "ganados": 12,
+        "perdidos": 10,
+        "empates": 8
+    },
+    {
+        "posicion": 10,
+        "equipo": "Brighton & Hove Albion",
+        "puntos": 43,
+        "jornadas": 31,
+        "ganados": 11,
+        "perdidos": 10,
+        "empates": 10
+    },
+    {
+        "posicion": 11,
+        "equipo": "Wolverhampton Wanderers",
+        "puntos": 42,
+        "jornadas": 31,
+        "ganados": 12,
+        "perdidos": 13,
+        "empates": 6
+    },
+    {
+        "posicion": 12,
+        "equipo": "AFC Bournemouth",
+        "puntos": 41,
+        "jornadas": 31,
+        "ganados": 11,
+        "perdidos": 12,
+        "empates": 8
+    },
+    {
+        "posicion": 13,
+        "equipo": "Fulham",
+        "puntos": 39,
+        "jornadas": 32,
+        "ganados": 11,
+        "perdidos": 15,
+        "empates": 6
+    },
+    {
+        "posicion": 14,
+        "equipo": "Crystal Palace",
+        "puntos": 30,
+        "jornadas": 31,
+        "ganados": 7,
+        "perdidos": 15,
+        "empates": 9
+    },
+    {
+        "posicion": 15,
+        "equipo": "Brentford",
+        "puntos": 29,
+        "jornadas": 32,
+        "ganados": 7,
+        "perdidos": 17,
+        "empates": 8
+    },
+    {
+        "posicion": 16,
+        "equipo": "Everton",
+        "puntos": 27,
+        "jornadas": 31,
+        "ganados": 9,
+        "perdidos": 14,
+        "empates": 8
+    },
+    {
+        "posicion": 17,
+        "equipo": "Nottingham Forest",
+        "puntos": 25,
+        "jornadas": 32,
+        "ganados": 7,
+        "perdidos": 17,
+        "empates": 8
+    },
+    {
+        "posicion": 18,
+        "equipo": "Luton Town",
+        "puntos": 25,
+        "jornadas": 32,
+        "ganados": 6,
+        "perdidos": 19,
+        "empates": 7
+    },
+    {
+        "posicion": 19,
+        "equipo": "Burnley",
+        "puntos": 19,
+        "jornadas": 32,
+        "ganados": 4,
+        "perdidos": 21,
+        "empates": 7
+    },
+    {
+        "posicion": 20,
+        "equipo": "Sheffield United",
+        "puntos": 16,
+        "jornadas": 31,
+        "ganados": 3,
+        "perdidos": 21,
+        "empates": 7
+    }
+]

@@ -1,0 +1,2200 @@
+[
+    {
+        "temporada": "2023/2024",
+        "ronda": "1",
+        "local": "Burnley",
+        "marcador": "0 - 3",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "1",
+        "local": "Arsenal",
+        "marcador": "2 - 1",
+        "visitante": "Nottm Forest"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "1",
+        "local": "Bournemouth",
+        "marcador": "1 - 1",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "1",
+        "local": "Brighton",
+        "marcador": "4 - 1",
+        "visitante": "Luton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "1",
+        "local": "Everton",
+        "marcador": "0 - 1",
+        "visitante": "Fulham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "1",
+        "local": "Sheff Utd",
+        "marcador": "0 - 1",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "1",
+        "local": "Newcastle",
+        "marcador": "5 - 1",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "1",
+        "local": "Brentford",
+        "marcador": "2 - 2",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "1",
+        "local": "Chelsea",
+        "marcador": "1 - 1",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "1",
+        "local": "Man United",
+        "marcador": "1 - 0",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "2",
+        "local": "Nottm Forest",
+        "marcador": "2 - 1",
+        "visitante": "Sheff Utd"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "2",
+        "local": "Fulham",
+        "marcador": "0 - 3",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "2",
+        "local": "Liverpool",
+        "marcador": "3 - 1",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "2",
+        "local": "Wolves",
+        "marcador": "1 - 4",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "2",
+        "local": "Tottenham",
+        "marcador": "2 - 0",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "2",
+        "local": "Man City",
+        "marcador": "1 - 0",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "2",
+        "local": "Aston Villa",
+        "marcador": "4 - 0",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "2",
+        "local": "West Ham",
+        "marcador": "3 - 1",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "2",
+        "local": "Crystal Palace",
+        "marcador": "0 - 1",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "3",
+        "local": "Chelsea",
+        "marcador": "3 - 0",
+        "visitante": "Luton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "3",
+        "local": "Bournemouth",
+        "marcador": "0 - 2",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "3",
+        "local": "Arsenal",
+        "marcador": "2 - 2",
+        "visitante": "Fulham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "3",
+        "local": "Brentford",
+        "marcador": "1 - 1",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "3",
+        "local": "Everton",
+        "marcador": "0 - 1",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "3",
+        "local": "Man United",
+        "marcador": "3 - 2",
+        "visitante": "Nottm Forest"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "3",
+        "local": "Brighton",
+        "marcador": "1 - 3",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "3",
+        "local": "Burnley",
+        "marcador": "1 - 3",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "3",
+        "local": "Sheff Utd",
+        "marcador": "1 - 2",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "3",
+        "local": "Newcastle",
+        "marcador": "1 - 2",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "4",
+        "local": "Luton",
+        "marcador": "1 - 2",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "4",
+        "local": "Sheff Utd",
+        "marcador": "2 - 2",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "4",
+        "local": "Brentford",
+        "marcador": "2 - 2",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "4",
+        "local": "Burnley",
+        "marcador": "2 - 5",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "4",
+        "local": "Chelsea",
+        "marcador": "0 - 1",
+        "visitante": "Nottm Forest"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "4",
+        "local": "Man City",
+        "marcador": "5 - 1",
+        "visitante": "Fulham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "4",
+        "local": "Brighton",
+        "marcador": "3 - 1",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "4",
+        "local": "Crystal Palace",
+        "marcador": "3 - 2",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "4",
+        "local": "Liverpool",
+        "marcador": "3 - 0",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "4",
+        "local": "Arsenal",
+        "marcador": "3 - 1",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "5",
+        "local": "Wolves",
+        "marcador": "1 - 3",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "5",
+        "local": "Aston Villa",
+        "marcador": "3 - 1",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "5",
+        "local": "Fulham",
+        "marcador": "1 - 0",
+        "visitante": "Luton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "5",
+        "local": "Man United",
+        "marcador": "1 - 3",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "5",
+        "local": "Tottenham",
+        "marcador": "2 - 1",
+        "visitante": "Sheff Utd"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "5",
+        "local": "West Ham",
+        "marcador": "1 - 3",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "5",
+        "local": "Newcastle",
+        "marcador": "1 - 0",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "5",
+        "local": "Bournemouth",
+        "marcador": "0 - 0",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "5",
+        "local": "Everton",
+        "marcador": "0 - 1",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "5",
+        "local": "Nottm Forest",
+        "marcador": "1 - 1",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "6",
+        "local": "Crystal Palace",
+        "marcador": "0 - 0",
+        "visitante": "Fulham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "6",
+        "local": "Luton",
+        "marcador": "1 - 1",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "6",
+        "local": "Man City",
+        "marcador": "2 - 0",
+        "visitante": "Nottm Forest"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "6",
+        "local": "Brentford",
+        "marcador": "1 - 3",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "6",
+        "local": "Burnley",
+        "marcador": "0 - 1",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "6",
+        "local": "Arsenal",
+        "marcador": "2 - 2",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "6",
+        "local": "Brighton",
+        "marcador": "3 - 1",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "6",
+        "local": "Chelsea",
+        "marcador": "0 - 1",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "6",
+        "local": "Liverpool",
+        "marcador": "3 - 1",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "6",
+        "local": "Sheff Utd",
+        "marcador": "0 - 8",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "7",
+        "local": "Aston Villa",
+        "marcador": "6 - 1",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "7",
+        "local": "Bournemouth",
+        "marcador": "0 - 4",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "7",
+        "local": "Everton",
+        "marcador": "1 - 2",
+        "visitante": "Luton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "7",
+        "local": "Man United",
+        "marcador": "0 - 1",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "7",
+        "local": "Newcastle",
+        "marcador": "2 - 0",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "7",
+        "local": "West Ham",
+        "marcador": "2 - 0",
+        "visitante": "Sheff Utd"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "7",
+        "local": "Wolves",
+        "marcador": "2 - 1",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "7",
+        "local": "Tottenham",
+        "marcador": "2 - 1",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "7",
+        "local": "Nottm Forest",
+        "marcador": "1 - 1",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "7",
+        "local": "Fulham",
+        "marcador": "0 - 2",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "2",
+        "local": "Luton",
+        "marcador": "1 - 2",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "8",
+        "local": "Luton",
+        "marcador": "0 - 1",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "8",
+        "local": "Burnley",
+        "marcador": "1 - 4",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "8",
+        "local": "Everton",
+        "marcador": "3 - 0",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "8",
+        "local": "Fulham",
+        "marcador": "3 - 1",
+        "visitante": "Sheff Utd"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "8",
+        "local": "Man United",
+        "marcador": "2 - 1",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "8",
+        "local": "Crystal Palace",
+        "marcador": "0 - 0",
+        "visitante": "Nottm Forest"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "8",
+        "local": "Brighton",
+        "marcador": "2 - 2",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "8",
+        "local": "West Ham",
+        "marcador": "2 - 2",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "8",
+        "local": "Wolves",
+        "marcador": "1 - 1",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "8",
+        "local": "Arsenal",
+        "marcador": "1 - 0",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "9",
+        "local": "Liverpool",
+        "marcador": "2 - 0",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "9",
+        "local": "Bournemouth",
+        "marcador": "1 - 2",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "9",
+        "local": "Brentford",
+        "marcador": "3 - 0",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "9",
+        "local": "Man City",
+        "marcador": "2 - 1",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "9",
+        "local": "Newcastle",
+        "marcador": "4 - 0",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "9",
+        "local": "Nottm Forest",
+        "marcador": "2 - 2",
+        "visitante": "Luton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "9",
+        "local": "Chelsea",
+        "marcador": "2 - 2",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "9",
+        "local": "Sheff Utd",
+        "marcador": "1 - 2",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "9",
+        "local": "Aston Villa",
+        "marcador": "4 - 1",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "9",
+        "local": "Tottenham",
+        "marcador": "2 - 0",
+        "visitante": "Fulham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "10",
+        "local": "Crystal Palace",
+        "marcador": "1 - 2",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "10",
+        "local": "Chelsea",
+        "marcador": "0 - 2",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "10",
+        "local": "Bournemouth",
+        "marcador": "2 - 1",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "10",
+        "local": "Arsenal",
+        "marcador": "5 - 0",
+        "visitante": "Sheff Utd"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "10",
+        "local": "Wolves",
+        "marcador": "2 - 2",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "10",
+        "local": "West Ham",
+        "marcador": "0 - 1",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "10",
+        "local": "Aston Villa",
+        "marcador": "3 - 1",
+        "visitante": "Luton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "10",
+        "local": "Brighton",
+        "marcador": "1 - 1",
+        "visitante": "Fulham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "10",
+        "local": "Liverpool",
+        "marcador": "3 - 0",
+        "visitante": "Nottm Forest"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "10",
+        "local": "Man United",
+        "marcador": "0 - 3",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "11",
+        "local": "Fulham",
+        "marcador": "0 - 1",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "11",
+        "local": "Brentford",
+        "marcador": "3 - 2",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "11",
+        "local": "Burnley",
+        "marcador": "0 - 2",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "11",
+        "local": "Everton",
+        "marcador": "1 - 1",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "11",
+        "local": "Man City",
+        "marcador": "6 - 1",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "11",
+        "local": "Sheff Utd",
+        "marcador": "2 - 1",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "11",
+        "local": "Newcastle",
+        "marcador": "1 - 0",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "11",
+        "local": "Nottm Forest",
+        "marcador": "2 - 0",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "11",
+        "local": "Luton",
+        "marcador": "1 - 1",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "11",
+        "local": "Tottenham",
+        "marcador": "1 - 4",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "12",
+        "local": "Wolves",
+        "marcador": "2 - 1",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "12",
+        "local": "Arsenal",
+        "marcador": "3 - 1",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "12",
+        "local": "Crystal Palace",
+        "marcador": "2 - 3",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "12",
+        "local": "Man United",
+        "marcador": "1 - 0",
+        "visitante": "Luton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "12",
+        "local": "Bournemouth",
+        "marcador": "2 - 0",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "12",
+        "local": "Aston Villa",
+        "marcador": "3 - 1",
+        "visitante": "Fulham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "12",
+        "local": "Brighton",
+        "marcador": "1 - 1",
+        "visitante": "Sheff Utd"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "12",
+        "local": "Liverpool",
+        "marcador": "3 - 0",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "12",
+        "local": "West Ham",
+        "marcador": "3 - 2",
+        "visitante": "Nottm Forest"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "12",
+        "local": "Chelsea",
+        "marcador": "4 - 4",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "13",
+        "local": "Man City",
+        "marcador": "1 - 1",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "13",
+        "local": "Burnley",
+        "marcador": "1 - 2",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "13",
+        "local": "Luton",
+        "marcador": "2 - 1",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "13",
+        "local": "Newcastle",
+        "marcador": "4 - 1",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "13",
+        "local": "Nottm Forest",
+        "marcador": "2 - 3",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "13",
+        "local": "Sheff Utd",
+        "marcador": "1 - 3",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "13",
+        "local": "Brentford",
+        "marcador": "0 - 1",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "13",
+        "local": "Tottenham",
+        "marcador": "1 - 2",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "13",
+        "local": "Everton",
+        "marcador": "0 - 3",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "13",
+        "local": "Fulham",
+        "marcador": "3 - 2",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "14",
+        "local": "Arsenal",
+        "marcador": "2 - 1",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "14",
+        "local": "Brentford",
+        "marcador": "3 - 1",
+        "visitante": "Luton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "14",
+        "local": "Burnley",
+        "marcador": "5 - 0",
+        "visitante": "Sheff Utd"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "14",
+        "local": "Nottm Forest",
+        "marcador": "0 - 1",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "14",
+        "local": "Newcastle",
+        "marcador": "1 - 0",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "14",
+        "local": "Bournemouth",
+        "marcador": "2 - 2",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "14",
+        "local": "Chelsea",
+        "marcador": "3 - 2",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "14",
+        "local": "Liverpool",
+        "marcador": "4 - 3",
+        "visitante": "Fulham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "14",
+        "local": "West Ham",
+        "marcador": "1 - 1",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "14",
+        "local": "Man City",
+        "marcador": "3 - 3",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "15",
+        "local": "Wolves",
+        "marcador": "1 - 0",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "15",
+        "local": "Luton",
+        "marcador": "3 - 4",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "15",
+        "local": "Brighton",
+        "marcador": "2 - 1",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "15",
+        "local": "Crystal Palace",
+        "marcador": "0 - 2",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "15",
+        "local": "Fulham",
+        "marcador": "5 - 0",
+        "visitante": "Nottm Forest"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "15",
+        "local": "Sheff Utd",
+        "marcador": "0 - 2",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "15",
+        "local": "Aston Villa",
+        "marcador": "1 - 0",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "15",
+        "local": "Man United",
+        "marcador": "2 - 1",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "15",
+        "local": "Everton",
+        "marcador": "3 - 0",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "15",
+        "local": "Tottenham",
+        "marcador": "1 - 2",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "16",
+        "local": "Crystal Palace",
+        "marcador": "1 - 2",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "16",
+        "local": "Brighton",
+        "marcador": "1 - 1",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "16",
+        "local": "Man United",
+        "marcador": "0 - 3",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "16",
+        "local": "Sheff Utd",
+        "marcador": "1 - 0",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "16",
+        "local": "Wolves",
+        "marcador": "1 - 1",
+        "visitante": "Nottm Forest"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "16",
+        "local": "Aston Villa",
+        "marcador": "1 - 0",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "16",
+        "local": "Everton",
+        "marcador": "2 - 0",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "16",
+        "local": "Fulham",
+        "marcador": "5 - 0",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "16",
+        "local": "Luton",
+        "marcador": "1 - 2",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "16",
+        "local": "Tottenham",
+        "marcador": "4 - 1",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "17",
+        "local": "Nottm Forest",
+        "marcador": "0 - 2",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "17",
+        "local": "Bournemouth",
+        "marcador": "Pospuesto",
+        "visitante": "Luton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "17",
+        "local": "Chelsea",
+        "marcador": "2 - 0",
+        "visitante": "Sheff Utd"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "17",
+        "local": "Man City",
+        "marcador": "2 - 2",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "17",
+        "local": "Newcastle",
+        "marcador": "3 - 0",
+        "visitante": "Fulham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "17",
+        "local": "Burnley",
+        "marcador": "0 - 2",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "17",
+        "local": "Arsenal",
+        "marcador": "2 - 0",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "17",
+        "local": "Brentford",
+        "marcador": "1 - 2",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "17",
+        "local": "West Ham",
+        "marcador": "3 - 0",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "17",
+        "local": "Liverpool",
+        "marcador": "0 - 0",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "18",
+        "local": "Crystal Palace",
+        "marcador": "1 - 1",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "18",
+        "local": "Aston Villa",
+        "marcador": "1 - 1",
+        "visitante": "Sheff Utd"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "18",
+        "local": "West Ham",
+        "marcador": "2 - 0",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "18",
+        "local": "Fulham",
+        "marcador": "0 - 2",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "18",
+        "local": "Luton",
+        "marcador": "1 - 0",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "18",
+        "local": "Nottm Forest",
+        "marcador": "2 - 3",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "18",
+        "local": "Tottenham",
+        "marcador": "2 - 1",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "18",
+        "local": "Liverpool",
+        "marcador": "1 - 1",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "18",
+        "local": "Wolves",
+        "marcador": "2 - 1",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "19",
+        "local": "Newcastle",
+        "marcador": "1 - 3",
+        "visitante": "Nottm Forest"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "19",
+        "local": "Bournemouth",
+        "marcador": "3 - 0",
+        "visitante": "Fulham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "19",
+        "local": "Sheff Utd",
+        "marcador": "2 - 3",
+        "visitante": "Luton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "19",
+        "local": "Burnley",
+        "marcador": "0 - 2",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "19",
+        "local": "Man United",
+        "marcador": "3 - 2",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "19",
+        "local": "Brentford",
+        "marcador": "1 - 4",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "19",
+        "local": "Chelsea",
+        "marcador": "2 - 1",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "19",
+        "local": "Everton",
+        "marcador": "1 - 3",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "19",
+        "local": "Brighton",
+        "marcador": "4 - 2",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "19",
+        "local": "Arsenal",
+        "marcador": "0 - 2",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "20",
+        "local": "Luton",
+        "marcador": "2 - 3",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "20",
+        "local": "Aston Villa",
+        "marcador": "3 - 2",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "20",
+        "local": "Crystal Palace",
+        "marcador": "3 - 1",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "20",
+        "local": "Man City",
+        "marcador": "2 - 0",
+        "visitante": "Sheff Utd"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "20",
+        "local": "Wolves",
+        "marcador": "3 - 0",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "20",
+        "local": "Nottm Forest",
+        "marcador": "2 - 1",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "20",
+        "local": "Fulham",
+        "marcador": "2 - 1",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "20",
+        "local": "Tottenham",
+        "marcador": "3 - 1",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "20",
+        "local": "Liverpool",
+        "marcador": "4 - 2",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "20",
+        "local": "West Ham",
+        "marcador": "0 - 0",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "21",
+        "local": "Burnley",
+        "marcador": "1 - 1",
+        "visitante": "Luton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "21",
+        "local": "Chelsea",
+        "marcador": "1 - 0",
+        "visitante": "Fulham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "21",
+        "local": "Newcastle",
+        "marcador": "2 - 3",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "21",
+        "local": "Everton",
+        "marcador": "0 - 0",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "21",
+        "local": "Man United",
+        "marcador": "2 - 2",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "21",
+        "local": "Arsenal",
+        "marcador": "5 - 0",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "21",
+        "local": "Brentford",
+        "marcador": "3 - 2",
+        "visitante": "Nottm Forest"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "21",
+        "local": "Sheff Utd",
+        "marcador": "2 - 2",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "21",
+        "local": "Bournemouth",
+        "marcador": "0 - 4",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "21",
+        "local": "Brighton",
+        "marcador": "0 - 0",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "22",
+        "local": "Nottm Forest",
+        "marcador": "1 - 2",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "22",
+        "local": "Fulham",
+        "marcador": "0 - 0",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "22",
+        "local": "Luton",
+        "marcador": "4 - 0",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "22",
+        "local": "Crystal Palace",
+        "marcador": "3 - 2",
+        "visitante": "Sheff Utd"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "22",
+        "local": "Aston Villa",
+        "marcador": "1 - 3",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "22",
+        "local": "Man City",
+        "marcador": "3 - 1",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "22",
+        "local": "Tottenham",
+        "marcador": "3 - 2",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "22",
+        "local": "Liverpool",
+        "marcador": "4 - 1",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "22",
+        "local": "West Ham",
+        "marcador": "1 - 1",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "22",
+        "local": "Wolves",
+        "marcador": "3 - 4",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "23",
+        "local": "Everton",
+        "marcador": "2 - 2",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "23",
+        "local": "Brighton",
+        "marcador": "4 - 1",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "23",
+        "local": "Burnley",
+        "marcador": "2 - 2",
+        "visitante": "Fulham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "23",
+        "local": "Newcastle",
+        "marcador": "4 - 4",
+        "visitante": "Luton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "23",
+        "local": "Sheff Utd",
+        "marcador": "0 - 5",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "23",
+        "local": "Bournemouth",
+        "marcador": "1 - 1",
+        "visitante": "Nottm Forest"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "23",
+        "local": "Chelsea",
+        "marcador": "2 - 4",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "23",
+        "local": "Man United",
+        "marcador": "3 - 0",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "23",
+        "local": "Arsenal",
+        "marcador": "3 - 1",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "23",
+        "local": "Brentford",
+        "marcador": "1 - 3",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "24",
+        "local": "Man City",
+        "marcador": "2 - 0",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "24",
+        "local": "Fulham",
+        "marcador": "3 - 1",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "24",
+        "local": "Liverpool",
+        "marcador": "3 - 1",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "24",
+        "local": "Luton",
+        "marcador": "1 - 3",
+        "visitante": "Sheff Utd"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "24",
+        "local": "Tottenham",
+        "marcador": "2 - 1",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "24",
+        "local": "Wolves",
+        "marcador": "0 - 2",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "24",
+        "local": "Nottm Forest",
+        "marcador": "2 - 3",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "24",
+        "local": "West Ham",
+        "marcador": "0 - 6",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "24",
+        "local": "Aston Villa",
+        "marcador": "1 - 2",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "24",
+        "local": "Crystal Palace",
+        "marcador": "1 - 3",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "25",
+        "local": "Brentford",
+        "marcador": "1 - 4",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "25",
+        "local": "Burnley",
+        "marcador": "0 - 5",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "25",
+        "local": "Fulham",
+        "marcador": "1 - 2",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "25",
+        "local": "Newcastle",
+        "marcador": "2 - 2",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "25",
+        "local": "Nottm Forest",
+        "marcador": "2 - 0",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "25",
+        "local": "Tottenham",
+        "marcador": "1 - 2",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "25",
+        "local": "Man City",
+        "marcador": "1 - 1",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "25",
+        "local": "Sheff Utd",
+        "marcador": "0 - 5",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "25",
+        "local": "Luton",
+        "marcador": "1 - 2",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "25",
+        "local": "Everton",
+        "marcador": "1 - 1",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "18",
+        "local": "Man City",
+        "marcador": "1 - 0",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "26",
+        "local": "Liverpool",
+        "marcador": "4 - 1",
+        "visitante": "Luton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "26",
+        "local": "Aston Villa",
+        "marcador": "4 - 2",
+        "visitante": "Nottm Forest"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "26",
+        "local": "Brighton",
+        "marcador": "1 - 1",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "26",
+        "local": "Crystal Palace",
+        "marcador": "3 - 0",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "26",
+        "local": "Man United",
+        "marcador": "1 - 2",
+        "visitante": "Fulham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "26",
+        "local": "Bournemouth",
+        "marcador": "0 - 1",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "26",
+        "local": "Arsenal",
+        "marcador": "4 - 1",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "26",
+        "local": "Wolves",
+        "marcador": "1 - 0",
+        "visitante": "Sheff Utd"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "26",
+        "local": "West Ham",
+        "marcador": "4 - 2",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "27",
+        "local": "Brentford",
+        "marcador": "2 - 2",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "27",
+        "local": "Everton",
+        "marcador": "1 - 3",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "27",
+        "local": "Fulham",
+        "marcador": "3 - 0",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "27",
+        "local": "Newcastle",
+        "marcador": "3 - 0",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "27",
+        "local": "Nottm Forest",
+        "marcador": "0 - 1",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "27",
+        "local": "Tottenham",
+        "marcador": "3 - 1",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "27",
+        "local": "Luton",
+        "marcador": "2 - 3",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "27",
+        "local": "Burnley",
+        "marcador": "0 - 2",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "27",
+        "local": "Man City",
+        "marcador": "3 - 1",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "27",
+        "local": "Sheff Utd",
+        "marcador": "0 - 6",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "28",
+        "local": "Man United",
+        "marcador": "2 - 0",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "28",
+        "local": "Bournemouth",
+        "marcador": "2 - 2",
+        "visitante": "Sheff Utd"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "28",
+        "local": "Crystal Palace",
+        "marcador": "1 - 1",
+        "visitante": "Luton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "28",
+        "local": "Wolves",
+        "marcador": "2 - 1",
+        "visitante": "Fulham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "28",
+        "local": "Arsenal",
+        "marcador": "2 - 1",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "28",
+        "local": "Aston Villa",
+        "marcador": "0 - 4",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "28",
+        "local": "Brighton",
+        "marcador": "1 - 0",
+        "visitante": "Nottm Forest"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "28",
+        "local": "West Ham",
+        "marcador": "2 - 2",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "28",
+        "local": "Liverpool",
+        "marcador": "1 - 1",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "28",
+        "local": "Chelsea",
+        "marcador": "3 - 2",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "17",
+        "local": "Bournemouth",
+        "marcador": "4 - 3",
+        "visitante": "Luton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "29",
+        "local": "Burnley",
+        "marcador": "2 - 1",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "29",
+        "local": "Luton",
+        "marcador": "1 - 1",
+        "visitante": "Nottm Forest"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "29",
+        "local": "Fulham",
+        "marcador": "3 - 0",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "29",
+        "local": "West Ham",
+        "marcador": "1 - 1",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "30",
+        "local": "Newcastle",
+        "marcador": "4 - 3",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "30",
+        "local": "Bournemouth",
+        "marcador": "2 - 1",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "30",
+        "local": "Chelsea",
+        "marcador": "2 - 2",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "30",
+        "local": "Nottm Forest",
+        "marcador": "1 - 1",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "30",
+        "local": "Sheff Utd",
+        "marcador": "3 - 3",
+        "visitante": "Fulham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "30",
+        "local": "Tottenham",
+        "marcador": "2 - 1",
+        "visitante": "Luton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "30",
+        "local": "Aston Villa",
+        "marcador": "2 - 0",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "30",
+        "local": "Brentford",
+        "marcador": "1 - 1",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "30",
+        "local": "Liverpool",
+        "marcador": "2 - 1",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "30",
+        "local": "Man City",
+        "marcador": "0 - 0",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "31",
+        "local": "Newcastle",
+        "marcador": "1 - 1",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "31",
+        "local": "Nottm Forest",
+        "marcador": "3 - 1",
+        "visitante": "Fulham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "31",
+        "local": "Bournemouth",
+        "marcador": "1 - 0",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "31",
+        "local": "Burnley",
+        "marcador": "1 - 1",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "31",
+        "local": "West Ham",
+        "marcador": "1 - 1",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "31",
+        "local": "Arsenal",
+        "marcador": "2 - 0",
+        "visitante": "Luton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "31",
+        "local": "Brentford",
+        "marcador": "0 - 0",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "31",
+        "local": "Man City",
+        "marcador": "4 - 1",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "31",
+        "local": "Liverpool",
+        "marcador": "3 - 1",
+        "visitante": "Sheff Utd"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "31",
+        "local": "Chelsea",
+        "marcador": "4 - 3",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "32",
+        "local": "Crystal Palace",
+        "marcador": "2 - 4",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "32",
+        "local": "Aston Villa",
+        "marcador": "3 - 3",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "32",
+        "local": "Everton",
+        "marcador": "1 - 0",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "32",
+        "local": "Fulham",
+        "marcador": "0 - 1",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "32",
+        "local": "Luton",
+        "marcador": "2 - 1",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "32",
+        "local": "Wolves",
+        "marcador": "1 - 2",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "32",
+        "local": "Brighton",
+        "marcador": "0 - 3",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "32",
+        "local": "Man United",
+        "marcador": "2 - 2",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "32",
+        "local": "Sheff Utd",
+        "marcador": "2 - 2",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2023/2024",
+        "ronda": "32",
+        "local": "Tottenham",
+        "marcador": "3 - 1",
+        "visitante": "Nottm Forest"
+    }
+]

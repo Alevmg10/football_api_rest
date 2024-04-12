@@ -1,0 +1,2662 @@
+[
+    {
+        "temporada": "2021/2022",
+        "ronda": "1",
+        "local": "Brentford",
+        "marcador": "2 - 0",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "1",
+        "local": "Man United",
+        "marcador": "5 - 1",
+        "visitante": "Leeds"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "1",
+        "local": "Burnley",
+        "marcador": "1 - 2",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "1",
+        "local": "Chelsea",
+        "marcador": "3 - 0",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "1",
+        "local": "Everton",
+        "marcador": "3 - 1",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "1",
+        "local": "Leicester",
+        "marcador": "1 - 0",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "1",
+        "local": "Watford",
+        "marcador": "3 - 2",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "1",
+        "local": "Norwich",
+        "marcador": "0 - 3",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "1",
+        "local": "Newcastle",
+        "marcador": "2 - 4",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "1",
+        "local": "Tottenham",
+        "marcador": "1 - 0",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "2",
+        "local": "Liverpool",
+        "marcador": "2 - 0",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "2",
+        "local": "Aston Villa",
+        "marcador": "2 - 0",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "2",
+        "local": "Crystal Palace",
+        "marcador": "0 - 0",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "2",
+        "local": "Leeds",
+        "marcador": "2 - 2",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "2",
+        "local": "Man City",
+        "marcador": "5 - 0",
+        "visitante": "Norwich"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "2",
+        "local": "Brighton",
+        "marcador": "2 - 0",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "2",
+        "local": "Southampton",
+        "marcador": "1 - 1",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "2",
+        "local": "Wolves",
+        "marcador": "0 - 1",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "2",
+        "local": "Arsenal",
+        "marcador": "0 - 2",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "2",
+        "local": "West Ham",
+        "marcador": "4 - 1",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "3",
+        "local": "Man City",
+        "marcador": "5 - 0",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "3",
+        "local": "Aston Villa",
+        "marcador": "1 - 1",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "3",
+        "local": "Brighton",
+        "marcador": "0 - 2",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "3",
+        "local": "Newcastle",
+        "marcador": "2 - 2",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "3",
+        "local": "Norwich",
+        "marcador": "1 - 2",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "3",
+        "local": "West Ham",
+        "marcador": "2 - 2",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "3",
+        "local": "Liverpool",
+        "marcador": "1 - 1",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "3",
+        "local": "Burnley",
+        "marcador": "1 - 1",
+        "visitante": "Leeds"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "3",
+        "local": "Tottenham",
+        "marcador": "1 - 0",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "3",
+        "local": "Wolves",
+        "marcador": "0 - 1",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "4",
+        "local": "Crystal Palace",
+        "marcador": "3 - 0",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "4",
+        "local": "Arsenal",
+        "marcador": "1 - 0",
+        "visitante": "Norwich"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "4",
+        "local": "Brentford",
+        "marcador": "0 - 1",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "4",
+        "local": "Leicester",
+        "marcador": "0 - 1",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "4",
+        "local": "Man United",
+        "marcador": "4 - 1",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "4",
+        "local": "Southampton",
+        "marcador": "0 - 0",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "4",
+        "local": "Watford",
+        "marcador": "0 - 2",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "4",
+        "local": "Chelsea",
+        "marcador": "3 - 0",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "4",
+        "local": "Leeds",
+        "marcador": "0 - 3",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "4",
+        "local": "Everton",
+        "marcador": "3 - 1",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "5",
+        "local": "Newcastle",
+        "marcador": "1 - 1",
+        "visitante": "Leeds"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "5",
+        "local": "Wolves",
+        "marcador": "0 - 2",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "5",
+        "local": "Burnley",
+        "marcador": "0 - 1",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "5",
+        "local": "Liverpool",
+        "marcador": "3 - 0",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "5",
+        "local": "Man City",
+        "marcador": "0 - 0",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "5",
+        "local": "Norwich",
+        "marcador": "1 - 3",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "5",
+        "local": "Aston Villa",
+        "marcador": "3 - 0",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "5",
+        "local": "Brighton",
+        "marcador": "2 - 1",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "5",
+        "local": "West Ham",
+        "marcador": "1 - 2",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "5",
+        "local": "Tottenham",
+        "marcador": "0 - 3",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "6",
+        "local": "Chelsea",
+        "marcador": "0 - 1",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "6",
+        "local": "Man United",
+        "marcador": "0 - 1",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "6",
+        "local": "Everton",
+        "marcador": "2 - 0",
+        "visitante": "Norwich"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "6",
+        "local": "Leeds",
+        "marcador": "1 - 2",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "6",
+        "local": "Leicester",
+        "marcador": "2 - 2",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "6",
+        "local": "Watford",
+        "marcador": "1 - 1",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "6",
+        "local": "Brentford",
+        "marcador": "3 - 3",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "6",
+        "local": "Southampton",
+        "marcador": "0 - 1",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "6",
+        "local": "Arsenal",
+        "marcador": "3 - 1",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "6",
+        "local": "Crystal Palace",
+        "marcador": "1 - 1",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "7",
+        "local": "Man United",
+        "marcador": "1 - 1",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "7",
+        "local": "Burnley",
+        "marcador": "0 - 0",
+        "visitante": "Norwich"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "7",
+        "local": "Chelsea",
+        "marcador": "3 - 1",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "7",
+        "local": "Leeds",
+        "marcador": "1 - 0",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "7",
+        "local": "Wolves",
+        "marcador": "2 - 1",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "7",
+        "local": "Brighton",
+        "marcador": "0 - 0",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "7",
+        "local": "Crystal Palace",
+        "marcador": "2 - 2",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "7",
+        "local": "Tottenham",
+        "marcador": "2 - 1",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "7",
+        "local": "West Ham",
+        "marcador": "1 - 2",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "7",
+        "local": "Liverpool",
+        "marcador": "2 - 2",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "8",
+        "local": "Watford",
+        "marcador": "0 - 5",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "8",
+        "local": "Aston Villa",
+        "marcador": "2 - 3",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "8",
+        "local": "Leicester",
+        "marcador": "4 - 2",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "8",
+        "local": "Man City",
+        "marcador": "2 - 0",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "8",
+        "local": "Norwich",
+        "marcador": "0 - 0",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "8",
+        "local": "Southampton",
+        "marcador": "1 - 0",
+        "visitante": "Leeds"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "8",
+        "local": "Brentford",
+        "marcador": "0 - 1",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "8",
+        "local": "Everton",
+        "marcador": "0 - 1",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "8",
+        "local": "Newcastle",
+        "marcador": "2 - 3",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "8",
+        "local": "Arsenal",
+        "marcador": "2 - 2",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "9",
+        "local": "Arsenal",
+        "marcador": "3 - 1",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "9",
+        "local": "Chelsea",
+        "marcador": "7 - 0",
+        "visitante": "Norwich"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "9",
+        "local": "Crystal Palace",
+        "marcador": "1 - 1",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "9",
+        "local": "Everton",
+        "marcador": "2 - 5",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "9",
+        "local": "Leeds",
+        "marcador": "1 - 1",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "9",
+        "local": "Southampton",
+        "marcador": "2 - 2",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "9",
+        "local": "Brighton",
+        "marcador": "1 - 4",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "9",
+        "local": "Brentford",
+        "marcador": "1 - 2",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "9",
+        "local": "West Ham",
+        "marcador": "1 - 0",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "9",
+        "local": "Man United",
+        "marcador": "0 - 5",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "10",
+        "local": "Leicester",
+        "marcador": "0 - 2",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "10",
+        "local": "Burnley",
+        "marcador": "3 - 1",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "10",
+        "local": "Liverpool",
+        "marcador": "2 - 2",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "10",
+        "local": "Man City",
+        "marcador": "0 - 2",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "10",
+        "local": "Newcastle",
+        "marcador": "0 - 3",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "10",
+        "local": "Watford",
+        "marcador": "0 - 1",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "10",
+        "local": "Tottenham",
+        "marcador": "0 - 3",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "10",
+        "local": "Norwich",
+        "marcador": "1 - 2",
+        "visitante": "Leeds"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "10",
+        "local": "Aston Villa",
+        "marcador": "1 - 4",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "10",
+        "local": "Wolves",
+        "marcador": "2 - 1",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "11",
+        "local": "Southampton",
+        "marcador": "1 - 0",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "11",
+        "local": "Man United",
+        "marcador": "0 - 2",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "11",
+        "local": "Brentford",
+        "marcador": "1 - 2",
+        "visitante": "Norwich"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "11",
+        "local": "Chelsea",
+        "marcador": "1 - 1",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "11",
+        "local": "Crystal Palace",
+        "marcador": "2 - 0",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "11",
+        "local": "Brighton",
+        "marcador": "1 - 1",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "11",
+        "local": "Arsenal",
+        "marcador": "1 - 0",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "11",
+        "local": "Everton",
+        "marcador": "0 - 0",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "11",
+        "local": "Leeds",
+        "marcador": "1 - 1",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "11",
+        "local": "West Ham",
+        "marcador": "3 - 2",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "12",
+        "local": "Leicester",
+        "marcador": "0 - 3",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "12",
+        "local": "Aston Villa",
+        "marcador": "2 - 0",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "12",
+        "local": "Burnley",
+        "marcador": "3 - 3",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "12",
+        "local": "Newcastle",
+        "marcador": "3 - 3",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "12",
+        "local": "Norwich",
+        "marcador": "2 - 1",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "12",
+        "local": "Watford",
+        "marcador": "4 - 1",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "12",
+        "local": "Wolves",
+        "marcador": "1 - 0",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "12",
+        "local": "Liverpool",
+        "marcador": "4 - 0",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "12",
+        "local": "Man City",
+        "marcador": "3 - 0",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "12",
+        "local": "Tottenham",
+        "marcador": "2 - 1",
+        "visitante": "Leeds"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "13",
+        "local": "Arsenal",
+        "marcador": "2 - 0",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "13",
+        "local": "Crystal Palace",
+        "marcador": "1 - 2",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "13",
+        "local": "Liverpool",
+        "marcador": "4 - 0",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "13",
+        "local": "Norwich",
+        "marcador": "0 - 0",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "13",
+        "local": "Brighton",
+        "marcador": "0 - 0",
+        "visitante": "Leeds"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "13",
+        "local": "Brentford",
+        "marcador": "1 - 0",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "13",
+        "local": "Leicester",
+        "marcador": "4 - 2",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "13",
+        "local": "Man City",
+        "marcador": "2 - 1",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "13",
+        "local": "Chelsea",
+        "marcador": "1 - 1",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "14",
+        "local": "Newcastle",
+        "marcador": "1 - 1",
+        "visitante": "Norwich"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "14",
+        "local": "Leeds",
+        "marcador": "1 - 0",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "14",
+        "local": "Southampton",
+        "marcador": "2 - 2",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "14",
+        "local": "Watford",
+        "marcador": "1 - 2",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "14",
+        "local": "West Ham",
+        "marcador": "1 - 1",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "14",
+        "local": "Wolves",
+        "marcador": "0 - 0",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "14",
+        "local": "Aston Villa",
+        "marcador": "1 - 2",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "14",
+        "local": "Everton",
+        "marcador": "1 - 4",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "14",
+        "local": "Tottenham",
+        "marcador": "2 - 0",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "14",
+        "local": "Man United",
+        "marcador": "3 - 2",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "15",
+        "local": "West Ham",
+        "marcador": "3 - 2",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "15",
+        "local": "Newcastle",
+        "marcador": "1 - 0",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "15",
+        "local": "Southampton",
+        "marcador": "1 - 1",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "15",
+        "local": "Wolves",
+        "marcador": "0 - 1",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "15",
+        "local": "Watford",
+        "marcador": "1 - 3",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "15",
+        "local": "Leeds",
+        "marcador": "2 - 2",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "15",
+        "local": "Man United",
+        "marcador": "1 - 0",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "15",
+        "local": "Tottenham",
+        "marcador": "3 - 0",
+        "visitante": "Norwich"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "15",
+        "local": "Aston Villa",
+        "marcador": "2 - 1",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "15",
+        "local": "Everton",
+        "marcador": "2 - 1",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "16",
+        "local": "Brentford",
+        "marcador": "2 - 1",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "16",
+        "local": "Man City",
+        "marcador": "1 - 0",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "16",
+        "local": "Arsenal",
+        "marcador": "3 - 0",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "16",
+        "local": "Chelsea",
+        "marcador": "3 - 2",
+        "visitante": "Leeds"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "16",
+        "local": "Liverpool",
+        "marcador": "1 - 0",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "16",
+        "local": "Norwich",
+        "marcador": "0 - 1",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "16",
+        "local": "Burnley",
+        "marcador": "0 - 0",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "16",
+        "local": "Leicester",
+        "marcador": "4 - 0",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "16",
+        "local": "Crystal Palace",
+        "marcador": "3 - 1",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "17",
+        "local": "Norwich",
+        "marcador": "0 - 2",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "17",
+        "local": "Man City",
+        "marcador": "7 - 0",
+        "visitante": "Leeds"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "17",
+        "local": "Brighton",
+        "marcador": "0 - 1",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "17",
+        "local": "Crystal Palace",
+        "marcador": "2 - 2",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "17",
+        "local": "Arsenal",
+        "marcador": "2 - 0",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "17",
+        "local": "Chelsea",
+        "marcador": "1 - 1",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "17",
+        "local": "Liverpool",
+        "marcador": "3 - 1",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "18",
+        "local": "Leeds",
+        "marcador": "1 - 4",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "18",
+        "local": "Newcastle",
+        "marcador": "0 - 4",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "18",
+        "local": "Wolves",
+        "marcador": "0 - 0",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "18",
+        "local": "Tottenham",
+        "marcador": "2 - 2",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "19",
+        "local": "Man City",
+        "marcador": "6 - 3",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "19",
+        "local": "Norwich",
+        "marcador": "0 - 5",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "19",
+        "local": "Tottenham",
+        "marcador": "3 - 0",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "19",
+        "local": "West Ham",
+        "marcador": "2 - 3",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "19",
+        "local": "Aston Villa",
+        "marcador": "1 - 3",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "19",
+        "local": "Brighton",
+        "marcador": "2 - 0",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "19",
+        "local": "Newcastle",
+        "marcador": "1 - 1",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "20",
+        "local": "Crystal Palace",
+        "marcador": "3 - 0",
+        "visitante": "Norwich"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "20",
+        "local": "Southampton",
+        "marcador": "1 - 1",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "20",
+        "local": "Watford",
+        "marcador": "1 - 4",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "20",
+        "local": "Leicester",
+        "marcador": "1 - 0",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "20",
+        "local": "Chelsea",
+        "marcador": "1 - 1",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "20",
+        "local": "Brentford",
+        "marcador": "0 - 1",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "20",
+        "local": "Man United",
+        "marcador": "3 - 1",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "21",
+        "local": "Arsenal",
+        "marcador": "1 - 2",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "21",
+        "local": "Watford",
+        "marcador": "0 - 1",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "21",
+        "local": "Crystal Palace",
+        "marcador": "2 - 3",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "21",
+        "local": "Brentford",
+        "marcador": "2 - 1",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "21",
+        "local": "Everton",
+        "marcador": "2 - 3",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "21",
+        "local": "Leeds",
+        "marcador": "3 - 1",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "21",
+        "local": "Chelsea",
+        "marcador": "2 - 2",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "21",
+        "local": "Man United",
+        "marcador": "0 - 1",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "18",
+        "local": "Southampton",
+        "marcador": "4 - 1",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "18",
+        "local": "West Ham",
+        "marcador": "2 - 0",
+        "visitante": "Norwich"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "22",
+        "local": "Brighton",
+        "marcador": "1 - 1",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "22",
+        "local": "Man City",
+        "marcador": "1 - 0",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "22",
+        "local": "Newcastle",
+        "marcador": "1 - 1",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "22",
+        "local": "Norwich",
+        "marcador": "2 - 1",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "22",
+        "local": "Wolves",
+        "marcador": "3 - 1",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "22",
+        "local": "Aston Villa",
+        "marcador": "2 - 2",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "22",
+        "local": "Liverpool",
+        "marcador": "3 - 0",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "22",
+        "local": "West Ham",
+        "marcador": "2 - 3",
+        "visitante": "Leeds"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "24",
+        "local": "Brighton",
+        "marcador": "1 - 1",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "17",
+        "local": "Leicester",
+        "marcador": "2 - 3",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "17",
+        "local": "Brentford",
+        "marcador": "1 - 3",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "23",
+        "local": "Watford",
+        "marcador": "0 - 3",
+        "visitante": "Norwich"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "23",
+        "local": "Everton",
+        "marcador": "0 - 1",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "23",
+        "local": "Brentford",
+        "marcador": "1 - 2",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "23",
+        "local": "Leeds",
+        "marcador": "0 - 1",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "23",
+        "local": "Man United",
+        "marcador": "1 - 0",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "23",
+        "local": "Southampton",
+        "marcador": "1 - 1",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "23",
+        "local": "Arsenal",
+        "marcador": "0 - 0",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "23",
+        "local": "Crystal Palace",
+        "marcador": "1 - 3",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "23",
+        "local": "Leicester",
+        "marcador": "1 - 1",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "23",
+        "local": "Chelsea",
+        "marcador": "2 - 0",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "17",
+        "local": "Burnley",
+        "marcador": "0 - 0",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "24",
+        "local": "Newcastle",
+        "marcador": "3 - 1",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "24",
+        "local": "West Ham",
+        "marcador": "1 - 0",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "24",
+        "local": "Burnley",
+        "marcador": "1 - 1",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "24",
+        "local": "Man City",
+        "marcador": "2 - 0",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "24",
+        "local": "Norwich",
+        "marcador": "1 - 1",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "24",
+        "local": "Tottenham",
+        "marcador": "2 - 3",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "24",
+        "local": "Aston Villa",
+        "marcador": "3 - 3",
+        "visitante": "Leeds"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "24",
+        "local": "Liverpool",
+        "marcador": "2 - 0",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "24",
+        "local": "Wolves",
+        "marcador": "0 - 1",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "25",
+        "local": "Man United",
+        "marcador": "1 - 1",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "25",
+        "local": "Brentford",
+        "marcador": "0 - 0",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "25",
+        "local": "Everton",
+        "marcador": "3 - 0",
+        "visitante": "Leeds"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "25",
+        "local": "Watford",
+        "marcador": "0 - 2",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "25",
+        "local": "Norwich",
+        "marcador": "0 - 4",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "25",
+        "local": "Burnley",
+        "marcador": "0 - 1",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "25",
+        "local": "Newcastle",
+        "marcador": "1 - 0",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "25",
+        "local": "Tottenham",
+        "marcador": "0 - 2",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "25",
+        "local": "Leicester",
+        "marcador": "2 - 2",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "18",
+        "local": "Man United",
+        "marcador": "2 - 0",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "26",
+        "local": "West Ham",
+        "marcador": "1 - 1",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "26",
+        "local": "Arsenal",
+        "marcador": "2 - 1",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "26",
+        "local": "Aston Villa",
+        "marcador": "0 - 1",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "26",
+        "local": "Brighton",
+        "marcador": "0 - 3",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "26",
+        "local": "Crystal Palace",
+        "marcador": "0 - 1",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "26",
+        "local": "Liverpool",
+        "marcador": "3 - 1",
+        "visitante": "Norwich"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "26",
+        "local": "Southampton",
+        "marcador": "2 - 0",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "26",
+        "local": "Man City",
+        "marcador": "2 - 3",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "26",
+        "local": "Leeds",
+        "marcador": "2 - 4",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "26",
+        "local": "Wolves",
+        "marcador": "2 - 1",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "13",
+        "local": "Burnley",
+        "marcador": "1 - 0",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "18",
+        "local": "Watford",
+        "marcador": "1 - 4",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "19",
+        "local": "Liverpool",
+        "marcador": "6 - 0",
+        "visitante": "Leeds"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "20",
+        "local": "Arsenal",
+        "marcador": "2 - 1",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "27",
+        "local": "Southampton",
+        "marcador": "2 - 0",
+        "visitante": "Norwich"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "27",
+        "local": "Leeds",
+        "marcador": "0 - 4",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "27",
+        "local": "Brentford",
+        "marcador": "0 - 2",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "27",
+        "local": "Crystal Palace",
+        "marcador": "1 - 1",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "27",
+        "local": "Man United",
+        "marcador": "0 - 0",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "27",
+        "local": "Brighton",
+        "marcador": "0 - 2",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "27",
+        "local": "Everton",
+        "marcador": "0 - 1",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "27",
+        "local": "West Ham",
+        "marcador": "1 - 0",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "22",
+        "local": "Burnley",
+        "marcador": "0 - 2",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "28",
+        "local": "Leicester",
+        "marcador": "1 - 0",
+        "visitante": "Leeds"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "28",
+        "local": "Aston Villa",
+        "marcador": "4 - 0",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "28",
+        "local": "Burnley",
+        "marcador": "0 - 4",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "28",
+        "local": "Newcastle",
+        "marcador": "2 - 1",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "28",
+        "local": "Norwich",
+        "marcador": "1 - 3",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "28",
+        "local": "Wolves",
+        "marcador": "0 - 2",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "28",
+        "local": "Liverpool",
+        "marcador": "1 - 0",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "28",
+        "local": "Watford",
+        "marcador": "2 - 3",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "28",
+        "local": "Man City",
+        "marcador": "4 - 1",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "28",
+        "local": "Tottenham",
+        "marcador": "5 - 0",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "30",
+        "local": "Norwich",
+        "marcador": "1 - 3",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "21",
+        "local": "Southampton",
+        "marcador": "1 - 2",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "19",
+        "local": "Wolves",
+        "marcador": "4 - 0",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "20",
+        "local": "Leeds",
+        "marcador": "0 - 3",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "29",
+        "local": "Brighton",
+        "marcador": "0 - 2",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "29",
+        "local": "Brentford",
+        "marcador": "2 - 0",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "29",
+        "local": "Man United",
+        "marcador": "3 - 2",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "29",
+        "local": "Chelsea",
+        "marcador": "1 - 0",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "29",
+        "local": "Everton",
+        "marcador": "0 - 1",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "29",
+        "local": "Leeds",
+        "marcador": "2 - 1",
+        "visitante": "Norwich"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "29",
+        "local": "Southampton",
+        "marcador": "1 - 2",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "29",
+        "local": "West Ham",
+        "marcador": "2 - 1",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "29",
+        "local": "Arsenal",
+        "marcador": "2 - 0",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "29",
+        "local": "Crystal Palace",
+        "marcador": "0 - 0",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "16",
+        "local": "Brighton",
+        "marcador": "0 - 2",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "27",
+        "local": "Arsenal",
+        "marcador": "0 - 2",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "20",
+        "local": "Everton",
+        "marcador": "1 - 0",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "30",
+        "local": "Wolves",
+        "marcador": "2 - 3",
+        "visitante": "Leeds"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "30",
+        "local": "Aston Villa",
+        "marcador": "0 - 1",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "30",
+        "local": "Leicester",
+        "marcador": "2 - 1",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "30",
+        "local": "Tottenham",
+        "marcador": "3 - 1",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "31",
+        "local": "Liverpool",
+        "marcador": "2 - 0",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "31",
+        "local": "Brighton",
+        "marcador": "0 - 0",
+        "visitante": "Norwich"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "31",
+        "local": "Burnley",
+        "marcador": "0 - 2",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "31",
+        "local": "Chelsea",
+        "marcador": "1 - 4",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "31",
+        "local": "Leeds",
+        "marcador": "1 - 1",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "31",
+        "local": "Wolves",
+        "marcador": "2 - 1",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "31",
+        "local": "Man United",
+        "marcador": "1 - 1",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "31",
+        "local": "West Ham",
+        "marcador": "2 - 1",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "31",
+        "local": "Tottenham",
+        "marcador": "5 - 1",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "31",
+        "local": "Crystal Palace",
+        "marcador": "3 - 0",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "19",
+        "local": "Burnley",
+        "marcador": "3 - 2",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "32",
+        "local": "Newcastle",
+        "marcador": "1 - 0",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "32",
+        "local": "Everton",
+        "marcador": "1 - 0",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "32",
+        "local": "Arsenal",
+        "marcador": "1 - 2",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "32",
+        "local": "Southampton",
+        "marcador": "0 - 6",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "32",
+        "local": "Watford",
+        "marcador": "0 - 3",
+        "visitante": "Leeds"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "32",
+        "local": "Aston Villa",
+        "marcador": "0 - 4",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "32",
+        "local": "Brentford",
+        "marcador": "2 - 0",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "32",
+        "local": "Leicester",
+        "marcador": "2 - 1",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "32",
+        "local": "Norwich",
+        "marcador": "2 - 0",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "32",
+        "local": "Man City",
+        "marcador": "2 - 2",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "33",
+        "local": "Tottenham",
+        "marcador": "0 - 1",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "33",
+        "local": "Man United",
+        "marcador": "3 - 2",
+        "visitante": "Norwich"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "33",
+        "local": "Southampton",
+        "marcador": "1 - 0",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "33",
+        "local": "Watford",
+        "marcador": "1 - 2",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "33",
+        "local": "Newcastle",
+        "marcador": "2 - 1",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "33",
+        "local": "West Ham",
+        "marcador": "1 - 1",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "30",
+        "local": "Liverpool",
+        "marcador": "4 - 0",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "25",
+        "local": "Chelsea",
+        "marcador": "2 - 4",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "18",
+        "local": "Everton",
+        "marcador": "1 - 1",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "30",
+        "local": "Newcastle",
+        "marcador": "1 - 0",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "30",
+        "local": "Man City",
+        "marcador": "3 - 0",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "30",
+        "local": "Burnley",
+        "marcador": "2 - 0",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "34",
+        "local": "Arsenal",
+        "marcador": "3 - 1",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "34",
+        "local": "Leicester",
+        "marcador": "0 - 0",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "34",
+        "local": "Man City",
+        "marcador": "5 - 1",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "34",
+        "local": "Norwich",
+        "marcador": "0 - 3",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "34",
+        "local": "Brentford",
+        "marcador": "0 - 0",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "34",
+        "local": "Brighton",
+        "marcador": "2 - 2",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "34",
+        "local": "Burnley",
+        "marcador": "1 - 0",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "34",
+        "local": "Chelsea",
+        "marcador": "1 - 0",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "34",
+        "local": "Liverpool",
+        "marcador": "2 - 0",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "34",
+        "local": "Crystal Palace",
+        "marcador": "0 - 0",
+        "visitante": "Leeds"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "37",
+        "local": "Man United",
+        "marcador": "1 - 1",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "35",
+        "local": "Newcastle",
+        "marcador": "0 - 1",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "35",
+        "local": "Aston Villa",
+        "marcador": "2 - 0",
+        "visitante": "Norwich"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "35",
+        "local": "Southampton",
+        "marcador": "1 - 2",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "35",
+        "local": "Watford",
+        "marcador": "1 - 2",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "35",
+        "local": "Wolves",
+        "marcador": "0 - 3",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "35",
+        "local": "Leeds",
+        "marcador": "0 - 4",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "35",
+        "local": "Everton",
+        "marcador": "1 - 0",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "35",
+        "local": "Tottenham",
+        "marcador": "3 - 1",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "35",
+        "local": "West Ham",
+        "marcador": "1 - 2",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "35",
+        "local": "Man United",
+        "marcador": "3 - 0",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "36",
+        "local": "Brentford",
+        "marcador": "3 - 0",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "36",
+        "local": "Burnley",
+        "marcador": "1 - 3",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "36",
+        "local": "Chelsea",
+        "marcador": "2 - 2",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "36",
+        "local": "Crystal Palace",
+        "marcador": "1 - 0",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "36",
+        "local": "Brighton",
+        "marcador": "4 - 0",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "36",
+        "local": "Liverpool",
+        "marcador": "1 - 1",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "36",
+        "local": "Arsenal",
+        "marcador": "2 - 1",
+        "visitante": "Leeds"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "36",
+        "local": "Leicester",
+        "marcador": "1 - 2",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "36",
+        "local": "Norwich",
+        "marcador": "0 - 4",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "36",
+        "local": "Man City",
+        "marcador": "5 - 0",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "33",
+        "local": "Aston Villa",
+        "marcador": "1 - 2",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "33",
+        "local": "Leeds",
+        "marcador": "0 - 3",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "21",
+        "local": "Leicester",
+        "marcador": "3 - 0",
+        "visitante": "Norwich"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "30",
+        "local": "Watford",
+        "marcador": "0 - 0",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "33",
+        "local": "Wolves",
+        "marcador": "1 - 5",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "22",
+        "local": "Tottenham",
+        "marcador": "3 - 0",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "37",
+        "local": "Tottenham",
+        "marcador": "1 - 0",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "37",
+        "local": "Aston Villa",
+        "marcador": "1 - 1",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "37",
+        "local": "Leeds",
+        "marcador": "1 - 1",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "37",
+        "local": "Watford",
+        "marcador": "1 - 5",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "37",
+        "local": "West Ham",
+        "marcador": "2 - 2",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "37",
+        "local": "Wolves",
+        "marcador": "1 - 1",
+        "visitante": "Norwich"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "37",
+        "local": "Everton",
+        "marcador": "2 - 3",
+        "visitante": "Brentford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "37",
+        "local": "Newcastle",
+        "marcador": "2 - 0",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "37",
+        "local": "Southampton",
+        "marcador": "1 - 2",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "33",
+        "local": "Everton",
+        "marcador": "3 - 2",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "18",
+        "local": "Aston Villa",
+        "marcador": "1 - 1",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "27",
+        "local": "Chelsea",
+        "marcador": "1 - 1",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "38",
+        "local": "Arsenal",
+        "marcador": "5 - 1",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "38",
+        "local": "Brentford",
+        "marcador": "1 - 2",
+        "visitante": "Leeds"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "38",
+        "local": "Brighton",
+        "marcador": "3 - 1",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "38",
+        "local": "Burnley",
+        "marcador": "1 - 2",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "38",
+        "local": "Chelsea",
+        "marcador": "2 - 1",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "38",
+        "local": "Crystal Palace",
+        "marcador": "1 - 0",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "38",
+        "local": "Leicester",
+        "marcador": "4 - 1",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "38",
+        "local": "Liverpool",
+        "marcador": "3 - 1",
+        "visitante": "Wolves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "38",
+        "local": "Man City",
+        "marcador": "3 - 2",
+        "visitante": "Aston Villa"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "38",
+        "local": "Norwich",
+        "marcador": "0 - 5",
+        "visitante": "Tottenham"
+    }
+]
