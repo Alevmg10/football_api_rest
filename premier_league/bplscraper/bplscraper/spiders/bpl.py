@@ -1,7 +1,7 @@
 import scrapy
 import json
 from urllib.parse import quote
-from ..items import BplscraperTable, BplscraperMatches, BplscraperMatchesLasted
+from ..items import BplscraperTable, BplscraperMatches, BplscraperMatchesLasted, BplscraperStats 
 
 
 class BplTable(scrapy.Spider):
@@ -87,7 +87,7 @@ class BplMatchesLastedSeason(scrapy.Spider):
         matches = data['matches']
         season = data['details']['selectedSeason']
 
-        calendario_items = BplscraperMatches()
+        calendario_items = BplscraperMatchesLasted()
 
         for rounds in matches['allMatches']:
             if not rounds["status"]["cancelled"]:
@@ -111,4 +111,32 @@ class BplMatchesLastedSeason(scrapy.Spider):
 
 
 class BplPlayerStats(scrapy.Spider):
-    pass
+    name = 'bpl_stats'
+    allowed_domains = ["fotmob.com/"]
+    start_urls = ['https://www.fotmob.com/api/leagueseasondeepstats?id=47&season=20720&type=players&stat=goals&slug=premier-league-players']
+    custom_settings = {
+            'FEEDS': { f'./bplscraper/spiders/data/players/2023_2024_goals.json': { 'format': 'json', 'overwrite': True}
+                }
+            }
+    
+    def parse(self, response):
+        data = json.loads(response.body)
+        stats = data['statsData']
+
+        player_stats = BplscraperStats()
+        
+        for item in stats:
+            if item['rank'] <= 10:
+                player_stats['goleadores'] = {
+                    'rank': item['rank'],
+                    'nombre_jugador': item['name'],
+                    'goles': item['statValue']['value'],
+                    'equipo': item['teamId'],
+                }
+                # player_stats['rank'] = item['rank']
+                # player_stats['nombre_jugador'] = item['name']
+                # player_stats['goles'] = item['statValue']['value']
+                # player_stats['equipo'] = item['teamId']
+                yield player_stats
+            else:
+                break

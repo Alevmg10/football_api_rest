@@ -7,6 +7,7 @@ import scrapy
 
 
 class BplscraperTable(scrapy.Item):
+    temporada = scrapy.Field()
     posicion = scrapy.Field()
     equipo = scrapy.Field()
     puntos = scrapy.Field()
@@ -21,9 +22,16 @@ class BplscraperMatches(scrapy.Item):
     ronda = scrapy.Field()
     local = scrapy.Field()
     marcador = scrapy.Field()
-    # gol_local = scrapy.Field()
-    # gol_visitante = scrapy.Field()
     visitante = scrapy.Field()
+
+
+class BplscraperStats(scrapy.Item):
+    goleadores = scrapy.Field()
+    rank = scrapy.Field()
+    nombre_jugador = scrapy.Field()
+    goles = scrapy.Field()
+    equipo = scrapy.Field()
+
 
 class BplscraperMatchesLasted(scrapy.Item):
     temporada = scrapy.Field()
