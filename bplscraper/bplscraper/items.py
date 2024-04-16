@@ -5,7 +5,6 @@
 
 import scrapy
 
-
 class BplscraperTable(scrapy.Item):
     temporada = scrapy.Field()
     posicion = scrapy.Field()

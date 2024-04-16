@@ -1,6 +1,5 @@
 import scrapy
 import json
-from urllib.parse import quote
 from ..items import BplscraperTable, BplscraperMatches, BplscraperMatchesLasted, BplscraperStats 
 
 
@@ -18,20 +17,38 @@ class BplTable(scrapy.Spider):
     def parse(self, response):
         data = json.loads(response.body)
         table_data = data["table"]
-        
+        season = data['details']['selectedSeason']
+
         for team in table_data:
             team_data = team["data"]  # Accediendo al diccionario de datos del equipo
+
+            for elemento in team_data["table"]["all"]:
+                elementos = BplscraperTable(
+                temporada=season,
+                posicion=elemento["idx"],
+                equipo=elemento["name"],
+                puntos=elemento["pts"],
+                jugados=elemento["played"],
+                ganados=elemento["wins"],
+                perdidos=elemento["losses"],
+                empates=elemento["draws"]
+            )
+                yield elementos
         
-        elementos = BplscraperTable()
-        for elemento in team_data["table"]["all"]:
-            elementos['posicion'] = elemento["idx"]
-            elementos['equipo'] = elemento["name"]  
-            elementos['puntos'] = elemento["pts"]
-            elementos['jugados'] = elemento["played"]
-            elementos['ganados'] = elemento["wins"]
-            elementos['perdidos'] = elemento["losses"]
-            elementos['empates'] = elemento["draws"]
-            yield elementos
+        # for team in table_data:
+        #     team_data = team["data"]  # Accediendo al diccionario de datos del equipo
+        
+        # elementos = BplscraperTable()
+        # for elemento in team_data["table"]["all"]:
+        #     elementos['temporada'] = season
+        #     elementos['posicion'] = elemento["idx"]
+        #     elementos['equipo'] = elemento["name"]  
+        #     elementos['puntos'] = elemento["pts"]
+        #     elementos['jugados'] = elemento["played"]
+        #     elementos['ganados'] = elemento["wins"]
+        #     elementos['perdidos'] = elemento["losses"]
+        #     elementos['empates'] = elemento["draws"]
+        #     yield elementos
 
 
 class BplMatches(scrapy.Spider):
