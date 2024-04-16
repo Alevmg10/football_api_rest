@@ -16,7 +16,10 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from premier_league.views import MatchList, TableView
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('api/matches/', MatchList.as_view(), name='match-list'),
+    path('api/table', TableView.as_view(), name='table'),
 ]
