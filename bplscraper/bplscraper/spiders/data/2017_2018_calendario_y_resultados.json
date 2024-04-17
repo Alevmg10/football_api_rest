@@ -1,0 +1,2662 @@
+[
+    {
+        "temporada": "2017/2018",
+        "ronda": "1",
+        "local": "Arsenal",
+        "marcador": "4 - 3",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "1",
+        "local": "Watford",
+        "marcador": "3 - 3",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "1",
+        "local": "Chelsea",
+        "marcador": "2 - 3",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "1",
+        "local": "Crystal Palace",
+        "marcador": "0 - 3",
+        "visitante": "Huddersfield"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "1",
+        "local": "Everton",
+        "marcador": "1 - 0",
+        "visitante": "Stoke"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "1",
+        "local": "Southampton",
+        "marcador": "0 - 0",
+        "visitante": "Swansea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "1",
+        "local": "West Brom",
+        "marcador": "1 - 0",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "1",
+        "local": "Brighton",
+        "marcador": "0 - 2",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "1",
+        "local": "Newcastle",
+        "marcador": "0 - 2",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "1",
+        "local": "Man United",
+        "marcador": "4 - 0",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "2",
+        "local": "Swansea",
+        "marcador": "0 - 4",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "2",
+        "local": "Bournemouth",
+        "marcador": "0 - 2",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "2",
+        "local": "Burnley",
+        "marcador": "0 - 1",
+        "visitante": "West Brom"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "2",
+        "local": "Leicester",
+        "marcador": "2 - 0",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "2",
+        "local": "Liverpool",
+        "marcador": "1 - 0",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "2",
+        "local": "Southampton",
+        "marcador": "3 - 2",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "2",
+        "local": "Stoke",
+        "marcador": "1 - 0",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "2",
+        "local": "Huddersfield",
+        "marcador": "1 - 0",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "2",
+        "local": "Tottenham",
+        "marcador": "1 - 2",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "2",
+        "local": "Man City",
+        "marcador": "1 - 1",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "3",
+        "local": "Bournemouth",
+        "marcador": "1 - 2",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "3",
+        "local": "Crystal Palace",
+        "marcador": "0 - 2",
+        "visitante": "Swansea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "3",
+        "local": "Huddersfield",
+        "marcador": "0 - 0",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "3",
+        "local": "Newcastle",
+        "marcador": "3 - 0",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "3",
+        "local": "Watford",
+        "marcador": "0 - 0",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "3",
+        "local": "Man United",
+        "marcador": "2 - 0",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "3",
+        "local": "Chelsea",
+        "marcador": "2 - 0",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "3",
+        "local": "West Brom",
+        "marcador": "1 - 1",
+        "visitante": "Stoke"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "3",
+        "local": "Liverpool",
+        "marcador": "4 - 0",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "3",
+        "local": "Tottenham",
+        "marcador": "1 - 1",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "4",
+        "local": "Man City",
+        "marcador": "5 - 0",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "4",
+        "local": "Arsenal",
+        "marcador": "3 - 0",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "4",
+        "local": "Brighton",
+        "marcador": "3 - 1",
+        "visitante": "West Brom"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "4",
+        "local": "Everton",
+        "marcador": "0 - 3",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "4",
+        "local": "Leicester",
+        "marcador": "1 - 2",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "4",
+        "local": "Southampton",
+        "marcador": "0 - 2",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "4",
+        "local": "Stoke",
+        "marcador": "2 - 2",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "4",
+        "local": "Burnley",
+        "marcador": "1 - 0",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "4",
+        "local": "Swansea",
+        "marcador": "0 - 1",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "4",
+        "local": "West Ham",
+        "marcador": "2 - 0",
+        "visitante": "Huddersfield"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "5",
+        "local": "Bournemouth",
+        "marcador": "2 - 1",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "5",
+        "local": "Crystal Palace",
+        "marcador": "0 - 1",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "5",
+        "local": "Huddersfield",
+        "marcador": "1 - 1",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "5",
+        "local": "Liverpool",
+        "marcador": "1 - 1",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "5",
+        "local": "Newcastle",
+        "marcador": "2 - 1",
+        "visitante": "Stoke"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "5",
+        "local": "Watford",
+        "marcador": "0 - 6",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "5",
+        "local": "West Brom",
+        "marcador": "0 - 0",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "5",
+        "local": "Tottenham",
+        "marcador": "0 - 0",
+        "visitante": "Swansea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "5",
+        "local": "Chelsea",
+        "marcador": "0 - 0",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "5",
+        "local": "Man United",
+        "marcador": "4 - 0",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "6",
+        "local": "West Ham",
+        "marcador": "2 - 3",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "6",
+        "local": "Burnley",
+        "marcador": "0 - 0",
+        "visitante": "Huddersfield"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "6",
+        "local": "Everton",
+        "marcador": "2 - 1",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "6",
+        "local": "Man City",
+        "marcador": "5 - 0",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "6",
+        "local": "Southampton",
+        "marcador": "0 - 1",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "6",
+        "local": "Stoke",
+        "marcador": "0 - 4",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "6",
+        "local": "Swansea",
+        "marcador": "1 - 2",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "6",
+        "local": "Leicester",
+        "marcador": "2 - 3",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "6",
+        "local": "Brighton",
+        "marcador": "1 - 0",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "6",
+        "local": "Arsenal",
+        "marcador": "2 - 0",
+        "visitante": "West Brom"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "7",
+        "local": "Huddersfield",
+        "marcador": "0 - 4",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "7",
+        "local": "Bournemouth",
+        "marcador": "0 - 0",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "7",
+        "local": "Man United",
+        "marcador": "4 - 0",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "7",
+        "local": "Stoke",
+        "marcador": "2 - 1",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "7",
+        "local": "West Brom",
+        "marcador": "2 - 2",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "7",
+        "local": "West Ham",
+        "marcador": "1 - 0",
+        "visitante": "Swansea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "7",
+        "local": "Chelsea",
+        "marcador": "0 - 1",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "7",
+        "local": "Arsenal",
+        "marcador": "2 - 0",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "7",
+        "local": "Everton",
+        "marcador": "0 - 1",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "7",
+        "local": "Newcastle",
+        "marcador": "1 - 1",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "8",
+        "local": "Liverpool",
+        "marcador": "0 - 0",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "8",
+        "local": "Burnley",
+        "marcador": "1 - 1",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "8",
+        "local": "Crystal Palace",
+        "marcador": "2 - 1",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "8",
+        "local": "Man City",
+        "marcador": "7 - 2",
+        "visitante": "Stoke"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "8",
+        "local": "Swansea",
+        "marcador": "2 - 0",
+        "visitante": "Huddersfield"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "8",
+        "local": "Tottenham",
+        "marcador": "1 - 0",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "8",
+        "local": "Watford",
+        "marcador": "2 - 1",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "8",
+        "local": "Brighton",
+        "marcador": "1 - 1",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "8",
+        "local": "Southampton",
+        "marcador": "2 - 2",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "8",
+        "local": "Leicester",
+        "marcador": "1 - 1",
+        "visitante": "West Brom"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "9",
+        "local": "West Ham",
+        "marcador": "0 - 3",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "9",
+        "local": "Chelsea",
+        "marcador": "4 - 2",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "9",
+        "local": "Huddersfield",
+        "marcador": "2 - 1",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "9",
+        "local": "Man City",
+        "marcador": "3 - 0",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "9",
+        "local": "Newcastle",
+        "marcador": "1 - 0",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "9",
+        "local": "Stoke",
+        "marcador": "1 - 2",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "9",
+        "local": "Swansea",
+        "marcador": "1 - 2",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "9",
+        "local": "Southampton",
+        "marcador": "1 - 0",
+        "visitante": "West Brom"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "9",
+        "local": "Everton",
+        "marcador": "2 - 5",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "9",
+        "local": "Tottenham",
+        "marcador": "4 - 1",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "10",
+        "local": "Man United",
+        "marcador": "1 - 0",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "10",
+        "local": "Arsenal",
+        "marcador": "2 - 1",
+        "visitante": "Swansea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "10",
+        "local": "Crystal Palace",
+        "marcador": "2 - 2",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "10",
+        "local": "Liverpool",
+        "marcador": "3 - 0",
+        "visitante": "Huddersfield"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "10",
+        "local": "Watford",
+        "marcador": "0 - 1",
+        "visitante": "Stoke"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "10",
+        "local": "West Brom",
+        "marcador": "2 - 3",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "10",
+        "local": "Bournemouth",
+        "marcador": "0 - 1",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "10",
+        "local": "Brighton",
+        "marcador": "1 - 1",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "10",
+        "local": "Leicester",
+        "marcador": "2 - 0",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "10",
+        "local": "Burnley",
+        "marcador": "1 - 0",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "11",
+        "local": "Stoke",
+        "marcador": "2 - 2",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "11",
+        "local": "Huddersfield",
+        "marcador": "1 - 0",
+        "visitante": "West Brom"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "11",
+        "local": "Newcastle",
+        "marcador": "0 - 1",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "11",
+        "local": "Southampton",
+        "marcador": "0 - 1",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "11",
+        "local": "Swansea",
+        "marcador": "0 - 1",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "11",
+        "local": "West Ham",
+        "marcador": "1 - 4",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "11",
+        "local": "Tottenham",
+        "marcador": "1 - 0",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "11",
+        "local": "Man City",
+        "marcador": "3 - 1",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "11",
+        "local": "Chelsea",
+        "marcador": "1 - 0",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "11",
+        "local": "Everton",
+        "marcador": "3 - 2",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "12",
+        "local": "Arsenal",
+        "marcador": "2 - 0",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "12",
+        "local": "Bournemouth",
+        "marcador": "4 - 0",
+        "visitante": "Huddersfield"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "12",
+        "local": "Burnley",
+        "marcador": "2 - 0",
+        "visitante": "Swansea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "12",
+        "local": "Crystal Palace",
+        "marcador": "2 - 2",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "12",
+        "local": "Leicester",
+        "marcador": "0 - 2",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "12",
+        "local": "Liverpool",
+        "marcador": "3 - 0",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "12",
+        "local": "West Brom",
+        "marcador": "0 - 4",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "12",
+        "local": "Man United",
+        "marcador": "4 - 1",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "12",
+        "local": "Watford",
+        "marcador": "2 - 0",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "12",
+        "local": "Brighton",
+        "marcador": "2 - 2",
+        "visitante": "Stoke"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "13",
+        "local": "West Ham",
+        "marcador": "1 - 1",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "13",
+        "local": "Crystal Palace",
+        "marcador": "2 - 1",
+        "visitante": "Stoke"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "13",
+        "local": "Man United",
+        "marcador": "1 - 0",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "13",
+        "local": "Newcastle",
+        "marcador": "0 - 3",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "13",
+        "local": "Swansea",
+        "marcador": "0 - 0",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "13",
+        "local": "Tottenham",
+        "marcador": "1 - 1",
+        "visitante": "West Brom"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "13",
+        "local": "Liverpool",
+        "marcador": "1 - 1",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "13",
+        "local": "Southampton",
+        "marcador": "4 - 1",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "13",
+        "local": "Burnley",
+        "marcador": "0 - 1",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "13",
+        "local": "Huddersfield",
+        "marcador": "1 - 2",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "14",
+        "local": "Brighton",
+        "marcador": "0 - 0",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "14",
+        "local": "Leicester",
+        "marcador": "2 - 1",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "14",
+        "local": "Watford",
+        "marcador": "2 - 4",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "14",
+        "local": "West Brom",
+        "marcador": "2 - 2",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "14",
+        "local": "Bournemouth",
+        "marcador": "1 - 2",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "14",
+        "local": "Arsenal",
+        "marcador": "5 - 0",
+        "visitante": "Huddersfield"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "14",
+        "local": "Chelsea",
+        "marcador": "1 - 0",
+        "visitante": "Swansea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "14",
+        "local": "Everton",
+        "marcador": "4 - 0",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "14",
+        "local": "Man City",
+        "marcador": "2 - 1",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "14",
+        "local": "Stoke",
+        "marcador": "0 - 3",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "15",
+        "local": "Chelsea",
+        "marcador": "3 - 1",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "15",
+        "local": "Brighton",
+        "marcador": "1 - 5",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "15",
+        "local": "Everton",
+        "marcador": "2 - 0",
+        "visitante": "Huddersfield"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "15",
+        "local": "Leicester",
+        "marcador": "1 - 0",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "15",
+        "local": "Stoke",
+        "marcador": "2 - 1",
+        "visitante": "Swansea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "15",
+        "local": "Watford",
+        "marcador": "1 - 1",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "15",
+        "local": "West Brom",
+        "marcador": "0 - 0",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "15",
+        "local": "Arsenal",
+        "marcador": "1 - 3",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "15",
+        "local": "Bournemouth",
+        "marcador": "1 - 1",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "15",
+        "local": "Man City",
+        "marcador": "2 - 1",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "16",
+        "local": "West Ham",
+        "marcador": "1 - 0",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "16",
+        "local": "Burnley",
+        "marcador": "1 - 0",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "16",
+        "local": "Crystal Palace",
+        "marcador": "2 - 2",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "16",
+        "local": "Huddersfield",
+        "marcador": "2 - 0",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "16",
+        "local": "Swansea",
+        "marcador": "1 - 0",
+        "visitante": "West Brom"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "16",
+        "local": "Tottenham",
+        "marcador": "5 - 1",
+        "visitante": "Stoke"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "16",
+        "local": "Newcastle",
+        "marcador": "2 - 3",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "16",
+        "local": "Southampton",
+        "marcador": "1 - 1",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "16",
+        "local": "Liverpool",
+        "marcador": "1 - 1",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "16",
+        "local": "Man United",
+        "marcador": "1 - 2",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "17",
+        "local": "Burnley",
+        "marcador": "1 - 0",
+        "visitante": "Stoke"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "17",
+        "local": "Crystal Palace",
+        "marcador": "2 - 1",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "17",
+        "local": "Huddersfield",
+        "marcador": "1 - 3",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "17",
+        "local": "Newcastle",
+        "marcador": "0 - 1",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "17",
+        "local": "Southampton",
+        "marcador": "1 - 4",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "17",
+        "local": "Swansea",
+        "marcador": "0 - 4",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "17",
+        "local": "Liverpool",
+        "marcador": "0 - 0",
+        "visitante": "West Brom"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "17",
+        "local": "Man United",
+        "marcador": "1 - 0",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "17",
+        "local": "Tottenham",
+        "marcador": "2 - 0",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "17",
+        "local": "West Ham",
+        "marcador": "0 - 0",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "18",
+        "local": "Leicester",
+        "marcador": "0 - 3",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "18",
+        "local": "Arsenal",
+        "marcador": "1 - 0",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "18",
+        "local": "Brighton",
+        "marcador": "0 - 0",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "18",
+        "local": "Chelsea",
+        "marcador": "1 - 0",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "18",
+        "local": "Watford",
+        "marcador": "1 - 4",
+        "visitante": "Huddersfield"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "18",
+        "local": "Stoke",
+        "marcador": "0 - 3",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "18",
+        "local": "Man City",
+        "marcador": "4 - 1",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "18",
+        "local": "West Brom",
+        "marcador": "1 - 2",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "18",
+        "local": "Bournemouth",
+        "marcador": "0 - 4",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "18",
+        "local": "Everton",
+        "marcador": "3 - 1",
+        "visitante": "Swansea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "19",
+        "local": "Arsenal",
+        "marcador": "3 - 3",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "19",
+        "local": "Everton",
+        "marcador": "0 - 0",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "19",
+        "local": "Brighton",
+        "marcador": "1 - 0",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "19",
+        "local": "Man City",
+        "marcador": "4 - 0",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "19",
+        "local": "Southampton",
+        "marcador": "1 - 1",
+        "visitante": "Huddersfield"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "19",
+        "local": "Stoke",
+        "marcador": "3 - 1",
+        "visitante": "West Brom"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "19",
+        "local": "Swansea",
+        "marcador": "1 - 1",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "19",
+        "local": "West Ham",
+        "marcador": "2 - 3",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "19",
+        "local": "Burnley",
+        "marcador": "0 - 3",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "19",
+        "local": "Leicester",
+        "marcador": "2 - 2",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "20",
+        "local": "Tottenham",
+        "marcador": "5 - 2",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "20",
+        "local": "Bournemouth",
+        "marcador": "3 - 3",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "20",
+        "local": "Chelsea",
+        "marcador": "2 - 0",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "20",
+        "local": "Huddersfield",
+        "marcador": "1 - 1",
+        "visitante": "Stoke"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "20",
+        "local": "Man United",
+        "marcador": "2 - 2",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "20",
+        "local": "Watford",
+        "marcador": "2 - 1",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "20",
+        "local": "West Brom",
+        "marcador": "0 - 0",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "20",
+        "local": "Liverpool",
+        "marcador": "5 - 0",
+        "visitante": "Swansea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "20",
+        "local": "Newcastle",
+        "marcador": "0 - 1",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "20",
+        "local": "Crystal Palace",
+        "marcador": "2 - 3",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "21",
+        "local": "Bournemouth",
+        "marcador": "2 - 1",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "21",
+        "local": "Chelsea",
+        "marcador": "5 - 0",
+        "visitante": "Stoke"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "21",
+        "local": "Huddersfield",
+        "marcador": "0 - 0",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "21",
+        "local": "Liverpool",
+        "marcador": "2 - 1",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "21",
+        "local": "Newcastle",
+        "marcador": "0 - 0",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "21",
+        "local": "Watford",
+        "marcador": "1 - 2",
+        "visitante": "Swansea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "21",
+        "local": "Man United",
+        "marcador": "0 - 0",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "21",
+        "local": "Crystal Palace",
+        "marcador": "0 - 0",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "21",
+        "local": "West Brom",
+        "marcador": "1 - 1",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "22",
+        "local": "Brighton",
+        "marcador": "2 - 2",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "22",
+        "local": "Burnley",
+        "marcador": "1 - 2",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "22",
+        "local": "Leicester",
+        "marcador": "3 - 0",
+        "visitante": "Huddersfield"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "22",
+        "local": "Stoke",
+        "marcador": "0 - 1",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "22",
+        "local": "Everton",
+        "marcador": "0 - 2",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "22",
+        "local": "Southampton",
+        "marcador": "1 - 2",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "22",
+        "local": "Swansea",
+        "marcador": "0 - 2",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "22",
+        "local": "West Ham",
+        "marcador": "2 - 1",
+        "visitante": "West Brom"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "22",
+        "local": "Man City",
+        "marcador": "3 - 1",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "22",
+        "local": "Arsenal",
+        "marcador": "2 - 2",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "21",
+        "local": "Tottenham",
+        "marcador": "1 - 1",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "23",
+        "local": "Chelsea",
+        "marcador": "0 - 0",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "23",
+        "local": "Crystal Palace",
+        "marcador": "1 - 0",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "23",
+        "local": "Huddersfield",
+        "marcador": "1 - 4",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "23",
+        "local": "Newcastle",
+        "marcador": "1 - 1",
+        "visitante": "Swansea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "23",
+        "local": "Watford",
+        "marcador": "2 - 2",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "23",
+        "local": "West Brom",
+        "marcador": "2 - 0",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "23",
+        "local": "Tottenham",
+        "marcador": "4 - 0",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "23",
+        "local": "Bournemouth",
+        "marcador": "2 - 1",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "23",
+        "local": "Liverpool",
+        "marcador": "4 - 3",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "23",
+        "local": "Man United",
+        "marcador": "3 - 0",
+        "visitante": "Stoke"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "24",
+        "local": "Brighton",
+        "marcador": "0 - 4",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "24",
+        "local": "Arsenal",
+        "marcador": "4 - 1",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "24",
+        "local": "Burnley",
+        "marcador": "0 - 1",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "24",
+        "local": "Everton",
+        "marcador": "1 - 1",
+        "visitante": "West Brom"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "24",
+        "local": "Leicester",
+        "marcador": "2 - 0",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "24",
+        "local": "Stoke",
+        "marcador": "2 - 0",
+        "visitante": "Huddersfield"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "24",
+        "local": "West Ham",
+        "marcador": "1 - 1",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "24",
+        "local": "Man City",
+        "marcador": "3 - 1",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "24",
+        "local": "Southampton",
+        "marcador": "1 - 1",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "24",
+        "local": "Swansea",
+        "marcador": "1 - 0",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "25",
+        "local": "Swansea",
+        "marcador": "3 - 1",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "25",
+        "local": "West Ham",
+        "marcador": "1 - 1",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "25",
+        "local": "Huddersfield",
+        "marcador": "0 - 3",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "25",
+        "local": "Chelsea",
+        "marcador": "0 - 3",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "25",
+        "local": "Everton",
+        "marcador": "2 - 1",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "25",
+        "local": "Newcastle",
+        "marcador": "1 - 1",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "25",
+        "local": "Southampton",
+        "marcador": "1 - 1",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "25",
+        "local": "Man City",
+        "marcador": "3 - 0",
+        "visitante": "West Brom"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "25",
+        "local": "Stoke",
+        "marcador": "0 - 0",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "25",
+        "local": "Tottenham",
+        "marcador": "2 - 0",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "26",
+        "local": "Burnley",
+        "marcador": "1 - 1",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "26",
+        "local": "Bournemouth",
+        "marcador": "2 - 1",
+        "visitante": "Stoke"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "26",
+        "local": "Brighton",
+        "marcador": "3 - 1",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "26",
+        "local": "Leicester",
+        "marcador": "1 - 1",
+        "visitante": "Swansea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "26",
+        "local": "Man United",
+        "marcador": "2 - 0",
+        "visitante": "Huddersfield"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "26",
+        "local": "West Brom",
+        "marcador": "2 - 3",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "26",
+        "local": "Arsenal",
+        "marcador": "5 - 1",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "26",
+        "local": "Crystal Palace",
+        "marcador": "1 - 1",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "26",
+        "local": "Liverpool",
+        "marcador": "2 - 2",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "26",
+        "local": "Watford",
+        "marcador": "4 - 1",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "27",
+        "local": "Tottenham",
+        "marcador": "1 - 0",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "27",
+        "local": "Everton",
+        "marcador": "3 - 1",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "27",
+        "local": "Stoke",
+        "marcador": "1 - 1",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "27",
+        "local": "Swansea",
+        "marcador": "1 - 0",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "27",
+        "local": "West Ham",
+        "marcador": "2 - 0",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "27",
+        "local": "Man City",
+        "marcador": "5 - 1",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "27",
+        "local": "Huddersfield",
+        "marcador": "4 - 1",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "27",
+        "local": "Newcastle",
+        "marcador": "1 - 0",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "27",
+        "local": "Southampton",
+        "marcador": "0 - 2",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "27",
+        "local": "Chelsea",
+        "marcador": "3 - 0",
+        "visitante": "West Brom"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "28",
+        "local": "Leicester",
+        "marcador": "1 - 1",
+        "visitante": "Stoke"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "28",
+        "local": "Bournemouth",
+        "marcador": "2 - 2",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "28",
+        "local": "Brighton",
+        "marcador": "4 - 1",
+        "visitante": "Swansea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "28",
+        "local": "Burnley",
+        "marcador": "1 - 1",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "28",
+        "local": "Liverpool",
+        "marcador": "4 - 1",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "28",
+        "local": "West Brom",
+        "marcador": "1 - 2",
+        "visitante": "Huddersfield"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "28",
+        "local": "Watford",
+        "marcador": "1 - 0",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "28",
+        "local": "Crystal Palace",
+        "marcador": "0 - 1",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "28",
+        "local": "Man United",
+        "marcador": "2 - 1",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "28",
+        "local": "Arsenal",
+        "marcador": "0 - 3",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "29",
+        "local": "Burnley",
+        "marcador": "2 - 1",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "29",
+        "local": "Leicester",
+        "marcador": "1 - 1",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "29",
+        "local": "Southampton",
+        "marcador": "0 - 0",
+        "visitante": "Stoke"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "29",
+        "local": "Swansea",
+        "marcador": "4 - 1",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "29",
+        "local": "Tottenham",
+        "marcador": "2 - 0",
+        "visitante": "Huddersfield"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "29",
+        "local": "Watford",
+        "marcador": "1 - 0",
+        "visitante": "West Brom"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "29",
+        "local": "Liverpool",
+        "marcador": "2 - 0",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "29",
+        "local": "Brighton",
+        "marcador": "2 - 1",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "29",
+        "local": "Man City",
+        "marcador": "1 - 0",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "29",
+        "local": "Crystal Palace",
+        "marcador": "2 - 3",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "30",
+        "local": "Man United",
+        "marcador": "2 - 1",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "30",
+        "local": "Everton",
+        "marcador": "2 - 0",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "30",
+        "local": "Huddersfield",
+        "marcador": "0 - 0",
+        "visitante": "Swansea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "30",
+        "local": "Newcastle",
+        "marcador": "3 - 0",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "30",
+        "local": "West Brom",
+        "marcador": "1 - 4",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "30",
+        "local": "West Ham",
+        "marcador": "0 - 3",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "30",
+        "local": "Chelsea",
+        "marcador": "2 - 1",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "30",
+        "local": "Arsenal",
+        "marcador": "3 - 0",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "30",
+        "local": "Bournemouth",
+        "marcador": "1 - 4",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "30",
+        "local": "Stoke",
+        "marcador": "0 - 2",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "31",
+        "local": "Bournemouth",
+        "marcador": "2 - 1",
+        "visitante": "West Brom"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "31",
+        "local": "Huddersfield",
+        "marcador": "0 - 2",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "31",
+        "local": "Stoke",
+        "marcador": "1 - 2",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "31",
+        "local": "Liverpool",
+        "marcador": "5 - 0",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "32",
+        "local": "Crystal Palace",
+        "marcador": "1 - 2",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "32",
+        "local": "Brighton",
+        "marcador": "0 - 2",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "32",
+        "local": "Man United",
+        "marcador": "2 - 0",
+        "visitante": "Swansea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "32",
+        "local": "Newcastle",
+        "marcador": "1 - 0",
+        "visitante": "Huddersfield"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "32",
+        "local": "Watford",
+        "marcador": "2 - 2",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "32",
+        "local": "West Brom",
+        "marcador": "1 - 2",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "32",
+        "local": "West Ham",
+        "marcador": "3 - 0",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "32",
+        "local": "Everton",
+        "marcador": "1 - 3",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "32",
+        "local": "Arsenal",
+        "marcador": "3 - 0",
+        "visitante": "Stoke"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "32",
+        "local": "Chelsea",
+        "marcador": "1 - 3",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "33",
+        "local": "Everton",
+        "marcador": "0 - 0",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "33",
+        "local": "Bournemouth",
+        "marcador": "2 - 2",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "33",
+        "local": "Brighton",
+        "marcador": "1 - 1",
+        "visitante": "Huddersfield"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "33",
+        "local": "Leicester",
+        "marcador": "1 - 2",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "33",
+        "local": "Stoke",
+        "marcador": "1 - 2",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "33",
+        "local": "Watford",
+        "marcador": "1 - 2",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "33",
+        "local": "West Brom",
+        "marcador": "1 - 1",
+        "visitante": "Swansea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "33",
+        "local": "Man City",
+        "marcador": "2 - 3",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "33",
+        "local": "Arsenal",
+        "marcador": "3 - 2",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "33",
+        "local": "Chelsea",
+        "marcador": "1 - 1",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "34",
+        "local": "Southampton",
+        "marcador": "2 - 3",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "34",
+        "local": "Burnley",
+        "marcador": "2 - 1",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "34",
+        "local": "Crystal Palace",
+        "marcador": "3 - 2",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "34",
+        "local": "Huddersfield",
+        "marcador": "1 - 0",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "34",
+        "local": "Swansea",
+        "marcador": "1 - 1",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "34",
+        "local": "Liverpool",
+        "marcador": "3 - 0",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "34",
+        "local": "Tottenham",
+        "marcador": "1 - 3",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "34",
+        "local": "Newcastle",
+        "marcador": "2 - 1",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "34",
+        "local": "Man United",
+        "marcador": "0 - 1",
+        "visitante": "West Brom"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "34",
+        "local": "West Ham",
+        "marcador": "1 - 1",
+        "visitante": "Stoke"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "35",
+        "local": "Brighton",
+        "marcador": "1 - 1",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "35",
+        "local": "Bournemouth",
+        "marcador": "0 - 2",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "31",
+        "local": "Burnley",
+        "marcador": "1 - 2",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "35",
+        "local": "Leicester",
+        "marcador": "0 - 0",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "35",
+        "local": "West Brom",
+        "marcador": "2 - 2",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "35",
+        "local": "Watford",
+        "marcador": "0 - 0",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "35",
+        "local": "Arsenal",
+        "marcador": "4 - 1",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "35",
+        "local": "Stoke",
+        "marcador": "1 - 1",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "35",
+        "local": "Man City",
+        "marcador": "5 - 0",
+        "visitante": "Swansea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "35",
+        "local": "Everton",
+        "marcador": "1 - 0",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "36",
+        "local": "Liverpool",
+        "marcador": "0 - 0",
+        "visitante": "Stoke"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "36",
+        "local": "Burnley",
+        "marcador": "0 - 0",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "36",
+        "local": "Crystal Palace",
+        "marcador": "5 - 0",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "36",
+        "local": "Huddersfield",
+        "marcador": "0 - 2",
+        "visitante": "Everton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "36",
+        "local": "Newcastle",
+        "marcador": "0 - 1",
+        "visitante": "West Brom"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "36",
+        "local": "Southampton",
+        "marcador": "2 - 1",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "36",
+        "local": "Swansea",
+        "marcador": "0 - 1",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "36",
+        "local": "West Ham",
+        "marcador": "1 - 4",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "36",
+        "local": "Man United",
+        "marcador": "2 - 1",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "36",
+        "local": "Tottenham",
+        "marcador": "2 - 0",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "37",
+        "local": "Brighton",
+        "marcador": "1 - 0",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "37",
+        "local": "Stoke",
+        "marcador": "1 - 2",
+        "visitante": "Crystal Palace"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "37",
+        "local": "Bournemouth",
+        "marcador": "1 - 0",
+        "visitante": "Swansea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "37",
+        "local": "Leicester",
+        "marcador": "0 - 2",
+        "visitante": "West Ham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "37",
+        "local": "Watford",
+        "marcador": "2 - 1",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "37",
+        "local": "West Brom",
+        "marcador": "1 - 0",
+        "visitante": "Tottenham"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "37",
+        "local": "Everton",
+        "marcador": "1 - 1",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "37",
+        "local": "Man City",
+        "marcador": "0 - 0",
+        "visitante": "Huddersfield"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "37",
+        "local": "Arsenal",
+        "marcador": "5 - 0",
+        "visitante": "Burnley"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "37",
+        "local": "Chelsea",
+        "marcador": "1 - 0",
+        "visitante": "Liverpool"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "31",
+        "local": "Swansea",
+        "marcador": "0 - 1",
+        "visitante": "Southampton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "35",
+        "local": "Chelsea",
+        "marcador": "1 - 1",
+        "visitante": "Huddersfield"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "31",
+        "local": "Leicester",
+        "marcador": "3 - 1",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "31",
+        "local": "Man City",
+        "marcador": "3 - 1",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "31",
+        "local": "Tottenham",
+        "marcador": "1 - 0",
+        "visitante": "Newcastle"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "31",
+        "local": "West Ham",
+        "marcador": "0 - 0",
+        "visitante": "Man United"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "38",
+        "local": "Burnley",
+        "marcador": "1 - 2",
+        "visitante": "Bournemouth"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "38",
+        "local": "Crystal Palace",
+        "marcador": "2 - 0",
+        "visitante": "West Brom"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "38",
+        "local": "Huddersfield",
+        "marcador": "0 - 1",
+        "visitante": "Arsenal"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "38",
+        "local": "Liverpool",
+        "marcador": "4 - 0",
+        "visitante": "Brighton"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "38",
+        "local": "Man United",
+        "marcador": "1 - 0",
+        "visitante": "Watford"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "38",
+        "local": "Newcastle",
+        "marcador": "3 - 0",
+        "visitante": "Chelsea"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "38",
+        "local": "Southampton",
+        "marcador": "0 - 1",
+        "visitante": "Man City"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "38",
+        "local": "Swansea",
+        "marcador": "1 - 2",
+        "visitante": "Stoke"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "38",
+        "local": "Tottenham",
+        "marcador": "5 - 4",
+        "visitante": "Leicester"
+    },
+    {
+        "temporada": "2017/2018",
+        "ronda": "38",
+        "local": "West Ham",
+        "marcador": "3 - 1",
+        "visitante": "Everton"
+    }
+]
