@@ -6,16 +6,16 @@
 
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
-from premier_league.models import BplMatch, BplTable
-from .items import BplscraperMatches, BplscraperStats, BplscraperTable
+from la_liga.models import LaligaMatch, LaligaTable
+from .items import LigascraperMatches, LigascraperStats, LigascraperTable
 from asgiref.sync import sync_to_async
 from scrapy.exceptions import DropItem
 
 
-class BplscraperPipeline:
+class LaligascraperPipeline:
     async def process_item(self, item, spider):
-        if isinstance(item, BplscraperTable):
-            table, _ = await sync_to_async(BplTable.objects.get_or_create)(
+        if isinstance(item, LigascraperTable):
+            table, _ = await sync_to_async(LaligaTable.objects.get_or_create)(
                 season=item['temporada'],
                 position=item['posicion'],
                 team=item['equipo'],
@@ -31,8 +31,8 @@ class BplscraperPipeline:
                 'table': self.model_to_dict(table)  # Convert the Table object to a dictionary
             }
 
-        if isinstance(item, BplscraperMatches):
-            match = await sync_to_async(BplMatch.objects.create)(
+        if isinstance(item, LigascraperMatches):
+            match = await sync_to_async(LaligaMatch.objects.create)(
                 temporada=item['temporada'],
                 round_number=item['ronda'],
                 home_team=item['local'],
@@ -54,31 +54,3 @@ class BplscraperPipeline:
             field.name: getattr(model_instance, field.name)
             for field in model_instance._meta.fields
         }
-
-
-# class BplscraperPipeline:
-#     def process_item(self, item, spider):
-#         if isinstance(item, BplscraperTable):
-#             team, _ = Table.objects.get_or_create(team=item['equipo'])
-#             # Save the team if it doesn't exist already
-#             return team
-
-#         if isinstance(item, BplscraperMatches):
-#             match = Match.objects.create(
-#                 temporada=item['temporada'],
-#                 round_number=item['ronda'],
-#                 home_team=item['local'],
-#                 score=item['marcador'],
-#                 away_team=item['visitante']
-#             )
-#             return match
-
-        # if isinstance(item, BplscraperStats):
-        #     player, _ = Player.objects.get_or_create(name=item['nombre_jugador'], team=team)
-        #     # Save the player if it doesn't exist already
-        #     goalscorer = GoalScorer.objects.create(player=player, goals=item['goles'])
-        #     return goalscorer
-
-# class BplscraperPipeline:
-#     def process_item(self, item, spider):
-#         return item

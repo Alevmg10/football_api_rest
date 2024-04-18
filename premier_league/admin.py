@@ -1,6 +1,6 @@
 from django.contrib import admin
-from .models import Table, Match
+from .models import BplTable, BplMatch
 
 # Register your models here.
-admin.site.register(Table)
-admin.site.register(Match)
+admin.site.register(BplTable)
+admin.site.register(BplMatch)

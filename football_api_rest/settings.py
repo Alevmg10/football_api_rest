@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'premier_league',
     'bplscraper',
+    'laligascraper',
+    'la_liga',
 ]
 
 MIDDLEWARE = [

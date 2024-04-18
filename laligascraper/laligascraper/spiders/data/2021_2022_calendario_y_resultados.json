@@ -1,0 +1,2662 @@
+[
+    {
+        "temporada": "2021/2022",
+        "ronda": "1",
+        "local": "Valencia",
+        "marcador": "1 - 0",
+        "visitante": "Getafe"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "1",
+        "local": "Cadiz",
+        "marcador": "1 - 1",
+        "visitante": "Levante"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "1",
+        "local": "Mallorca",
+        "marcador": "1 - 1",
+        "visitante": "Real Betis"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "1",
+        "local": "Deportivo Alaves",
+        "marcador": "1 - 4",
+        "visitante": "Real Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "1",
+        "local": "Osasuna",
+        "marcador": "0 - 0",
+        "visitante": "Espanyol"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "1",
+        "local": "Celta Vigo",
+        "marcador": "1 - 2",
+        "visitante": "Atletico Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "1",
+        "local": "Barcelona",
+        "marcador": "4 - 2",
+        "visitante": "Real Sociedad"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "1",
+        "local": "Sevilla",
+        "marcador": "3 - 0",
+        "visitante": "Rayo Vallecano"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "1",
+        "local": "Villarreal",
+        "marcador": "0 - 0",
+        "visitante": "Granada"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "1",
+        "local": "Elche",
+        "marcador": "0 - 0",
+        "visitante": "Athletic Club"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "2",
+        "local": "Real Betis",
+        "marcador": "1 - 1",
+        "visitante": "Cadiz"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "2",
+        "local": "Deportivo Alaves",
+        "marcador": "0 - 1",
+        "visitante": "Mallorca"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "2",
+        "local": "Espanyol",
+        "marcador": "0 - 0",
+        "visitante": "Villarreal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "2",
+        "local": "Granada",
+        "marcador": "1 - 1",
+        "visitante": "Valencia"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "2",
+        "local": "Athletic Club",
+        "marcador": "1 - 1",
+        "visitante": "Barcelona"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "2",
+        "local": "Real Sociedad",
+        "marcador": "1 - 0",
+        "visitante": "Rayo Vallecano"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "2",
+        "local": "Atletico Madrid",
+        "marcador": "1 - 0",
+        "visitante": "Elche"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "2",
+        "local": "Levante",
+        "marcador": "3 - 3",
+        "visitante": "Real Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "2",
+        "local": "Getafe",
+        "marcador": "0 - 1",
+        "visitante": "Sevilla"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "2",
+        "local": "Osasuna",
+        "marcador": "0 - 0",
+        "visitante": "Celta Vigo"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "3",
+        "local": "Mallorca",
+        "marcador": "1 - 0",
+        "visitante": "Espanyol"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "3",
+        "local": "Valencia",
+        "marcador": "3 - 0",
+        "visitante": "Deportivo Alaves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "3",
+        "local": "Celta Vigo",
+        "marcador": "0 - 1",
+        "visitante": "Athletic Club"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "3",
+        "local": "Elche",
+        "marcador": "1 - 1",
+        "visitante": "Sevilla"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "3",
+        "local": "Real Sociedad",
+        "marcador": "1 - 0",
+        "visitante": "Levante"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "3",
+        "local": "Real Betis",
+        "marcador": "0 - 1",
+        "visitante": "Real Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "3",
+        "local": "Barcelona",
+        "marcador": "2 - 1",
+        "visitante": "Getafe"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "3",
+        "local": "Cadiz",
+        "marcador": "2 - 3",
+        "visitante": "Osasuna"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "3",
+        "local": "Rayo Vallecano",
+        "marcador": "4 - 0",
+        "visitante": "Granada"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "3",
+        "local": "Atletico Madrid",
+        "marcador": "2 - 2",
+        "visitante": "Villarreal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "4",
+        "local": "Levante",
+        "marcador": "1 - 1",
+        "visitante": "Rayo Vallecano"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "4",
+        "local": "Athletic Club",
+        "marcador": "2 - 0",
+        "visitante": "Mallorca"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "4",
+        "local": "Espanyol",
+        "marcador": "1 - 2",
+        "visitante": "Atletico Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "4",
+        "local": "Osasuna",
+        "marcador": "1 - 4",
+        "visitante": "Valencia"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "4",
+        "local": "Cadiz",
+        "marcador": "0 - 2",
+        "visitante": "Real Sociedad"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "4",
+        "local": "Real Madrid",
+        "marcador": "5 - 2",
+        "visitante": "Celta Vigo"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "4",
+        "local": "Getafe",
+        "marcador": "0 - 1",
+        "visitante": "Elche"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "4",
+        "local": "Granada",
+        "marcador": "1 - 2",
+        "visitante": "Real Betis"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "5",
+        "local": "Celta Vigo",
+        "marcador": "1 - 2",
+        "visitante": "Cadiz"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "5",
+        "local": "Rayo Vallecano",
+        "marcador": "3 - 0",
+        "visitante": "Getafe"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "5",
+        "local": "Atletico Madrid",
+        "marcador": "0 - 0",
+        "visitante": "Athletic Club"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "5",
+        "local": "Elche",
+        "marcador": "1 - 1",
+        "visitante": "Levante"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "5",
+        "local": "Deportivo Alaves",
+        "marcador": "0 - 2",
+        "visitante": "Osasuna"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "5",
+        "local": "Mallorca",
+        "marcador": "0 - 0",
+        "visitante": "Villarreal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "5",
+        "local": "Real Sociedad",
+        "marcador": "0 - 0",
+        "visitante": "Sevilla"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "5",
+        "local": "Real Betis",
+        "marcador": "2 - 2",
+        "visitante": "Espanyol"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "5",
+        "local": "Valencia",
+        "marcador": "1 - 2",
+        "visitante": "Real Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "5",
+        "local": "Barcelona",
+        "marcador": "1 - 1",
+        "visitante": "Granada"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "6",
+        "local": "Getafe",
+        "marcador": "1 - 2",
+        "visitante": "Atletico Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "6",
+        "local": "Athletic Club",
+        "marcador": "1 - 2",
+        "visitante": "Rayo Vallecano"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "6",
+        "local": "Levante",
+        "marcador": "0 - 2",
+        "visitante": "Celta Vigo"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "6",
+        "local": "Espanyol",
+        "marcador": "1 - 0",
+        "visitante": "Deportivo Alaves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "6",
+        "local": "Sevilla",
+        "marcador": "3 - 1",
+        "visitante": "Valencia"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "6",
+        "local": "Real Madrid",
+        "marcador": "6 - 1",
+        "visitante": "Mallorca"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "6",
+        "local": "Villarreal",
+        "marcador": "4 - 1",
+        "visitante": "Elche"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "6",
+        "local": "Granada",
+        "marcador": "2 - 3",
+        "visitante": "Real Sociedad"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "6",
+        "local": "Osasuna",
+        "marcador": "1 - 3",
+        "visitante": "Real Betis"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "6",
+        "local": "Cadiz",
+        "marcador": "0 - 0",
+        "visitante": "Barcelona"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "7",
+        "local": "Deportivo Alaves",
+        "marcador": "1 - 0",
+        "visitante": "Atletico Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "7",
+        "local": "Valencia",
+        "marcador": "1 - 1",
+        "visitante": "Athletic Club"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "7",
+        "local": "Sevilla",
+        "marcador": "2 - 0",
+        "visitante": "Espanyol"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "7",
+        "local": "Real Madrid",
+        "marcador": "0 - 0",
+        "visitante": "Villarreal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "7",
+        "local": "Mallorca",
+        "marcador": "2 - 3",
+        "visitante": "Osasuna"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "7",
+        "local": "Barcelona",
+        "marcador": "3 - 0",
+        "visitante": "Levante"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "7",
+        "local": "Rayo Vallecano",
+        "marcador": "3 - 1",
+        "visitante": "Cadiz"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "7",
+        "local": "Real Sociedad",
+        "marcador": "1 - 0",
+        "visitante": "Elche"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "7",
+        "local": "Real Betis",
+        "marcador": "2 - 0",
+        "visitante": "Getafe"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "7",
+        "local": "Celta Vigo",
+        "marcador": "1 - 0",
+        "visitante": "Granada"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "8",
+        "local": "Athletic Club",
+        "marcador": "1 - 0",
+        "visitante": "Deportivo Alaves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "8",
+        "local": "Osasuna",
+        "marcador": "1 - 0",
+        "visitante": "Rayo Vallecano"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "8",
+        "local": "Mallorca",
+        "marcador": "1 - 0",
+        "visitante": "Levante"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "8",
+        "local": "Cadiz",
+        "marcador": "0 - 0",
+        "visitante": "Valencia"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "8",
+        "local": "Atletico Madrid",
+        "marcador": "2 - 0",
+        "visitante": "Barcelona"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "8",
+        "local": "Elche",
+        "marcador": "1 - 0",
+        "visitante": "Celta Vigo"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "8",
+        "local": "Espanyol",
+        "marcador": "2 - 1",
+        "visitante": "Real Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "8",
+        "local": "Getafe",
+        "marcador": "1 - 1",
+        "visitante": "Real Sociedad"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "8",
+        "local": "Villarreal",
+        "marcador": "2 - 0",
+        "visitante": "Real Betis"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "8",
+        "local": "Granada",
+        "marcador": "1 - 0",
+        "visitante": "Sevilla"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "9",
+        "local": "Levante",
+        "marcador": "0 - 0",
+        "visitante": "Getafe"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "9",
+        "local": "Real Sociedad",
+        "marcador": "1 - 0",
+        "visitante": "Mallorca"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "9",
+        "local": "Rayo Vallecano",
+        "marcador": "2 - 1",
+        "visitante": "Elche"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "9",
+        "local": "Celta Vigo",
+        "marcador": "0 - 1",
+        "visitante": "Sevilla"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "9",
+        "local": "Villarreal",
+        "marcador": "1 - 2",
+        "visitante": "Osasuna"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "9",
+        "local": "Barcelona",
+        "marcador": "3 - 1",
+        "visitante": "Valencia"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "9",
+        "local": "Deportivo Alaves",
+        "marcador": "0 - 1",
+        "visitante": "Real Betis"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "9",
+        "local": "Espanyol",
+        "marcador": "2 - 0",
+        "visitante": "Cadiz"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "10",
+        "local": "Osasuna",
+        "marcador": "1 - 1",
+        "visitante": "Granada"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "10",
+        "local": "Valencia",
+        "marcador": "2 - 2",
+        "visitante": "Mallorca"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "10",
+        "local": "Cadiz",
+        "marcador": "0 - 2",
+        "visitante": "Deportivo Alaves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "10",
+        "local": "Elche",
+        "marcador": "2 - 2",
+        "visitante": "Espanyol"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "10",
+        "local": "Athletic Club",
+        "marcador": "2 - 1",
+        "visitante": "Villarreal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "10",
+        "local": "Sevilla",
+        "marcador": "5 - 3",
+        "visitante": "Levante"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "10",
+        "local": "Barcelona",
+        "marcador": "1 - 2",
+        "visitante": "Real Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "10",
+        "local": "Real Betis",
+        "marcador": "3 - 2",
+        "visitante": "Rayo Vallecano"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "10",
+        "local": "Atletico Madrid",
+        "marcador": "2 - 2",
+        "visitante": "Real Sociedad"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "10",
+        "local": "Getafe",
+        "marcador": "0 - 3",
+        "visitante": "Celta Vigo"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "11",
+        "local": "Deportivo Alaves",
+        "marcador": "1 - 0",
+        "visitante": "Elche"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "11",
+        "local": "Espanyol",
+        "marcador": "1 - 1",
+        "visitante": "Athletic Club"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "11",
+        "local": "Villarreal",
+        "marcador": "3 - 3",
+        "visitante": "Cadiz"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "11",
+        "local": "Mallorca",
+        "marcador": "1 - 1",
+        "visitante": "Sevilla"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "11",
+        "local": "Rayo Vallecano",
+        "marcador": "1 - 0",
+        "visitante": "Barcelona"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "11",
+        "local": "Real Betis",
+        "marcador": "4 - 1",
+        "visitante": "Valencia"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "11",
+        "local": "Real Madrid",
+        "marcador": "0 - 0",
+        "visitante": "Osasuna"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "11",
+        "local": "Celta Vigo",
+        "marcador": "0 - 2",
+        "visitante": "Real Sociedad"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "11",
+        "local": "Granada",
+        "marcador": "1 - 1",
+        "visitante": "Getafe"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "11",
+        "local": "Levante",
+        "marcador": "2 - 2",
+        "visitante": "Atletico Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "12",
+        "local": "Elche",
+        "marcador": "1 - 2",
+        "visitante": "Real Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "12",
+        "local": "Sevilla",
+        "marcador": "2 - 0",
+        "visitante": "Osasuna"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "12",
+        "local": "Valencia",
+        "marcador": "2 - 0",
+        "visitante": "Villarreal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "12",
+        "local": "Barcelona",
+        "marcador": "1 - 1",
+        "visitante": "Deportivo Alaves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "12",
+        "local": "Cadiz",
+        "marcador": "1 - 1",
+        "visitante": "Mallorca"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "12",
+        "local": "Atletico Madrid",
+        "marcador": "3 - 0",
+        "visitante": "Real Betis"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "12",
+        "local": "Getafe",
+        "marcador": "2 - 1",
+        "visitante": "Espanyol"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "12",
+        "local": "Real Sociedad",
+        "marcador": "1 - 1",
+        "visitante": "Athletic Club"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "12",
+        "local": "Rayo Vallecano",
+        "marcador": "0 - 0",
+        "visitante": "Celta Vigo"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "12",
+        "local": "Levante",
+        "marcador": "0 - 3",
+        "visitante": "Granada"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "13",
+        "local": "Athletic Club",
+        "marcador": "0 - 1",
+        "visitante": "Cadiz"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "13",
+        "local": "Espanyol",
+        "marcador": "2 - 0",
+        "visitante": "Granada"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "13",
+        "local": "Celta Vigo",
+        "marcador": "3 - 3",
+        "visitante": "Barcelona"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "13",
+        "local": "Deportivo Alaves",
+        "marcador": "2 - 1",
+        "visitante": "Levante"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "13",
+        "local": "Real Madrid",
+        "marcador": "2 - 1",
+        "visitante": "Rayo Vallecano"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "13",
+        "local": "Villarreal",
+        "marcador": "1 - 0",
+        "visitante": "Getafe"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "13",
+        "local": "Valencia",
+        "marcador": "3 - 3",
+        "visitante": "Atletico Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "13",
+        "local": "Mallorca",
+        "marcador": "2 - 2",
+        "visitante": "Elche"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "13",
+        "local": "Osasuna",
+        "marcador": "0 - 2",
+        "visitante": "Real Sociedad"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "13",
+        "local": "Real Betis",
+        "marcador": "0 - 2",
+        "visitante": "Sevilla"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "14",
+        "local": "Levante",
+        "marcador": "0 - 0",
+        "visitante": "Athletic Club"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "14",
+        "local": "Celta Vigo",
+        "marcador": "1 - 1",
+        "visitante": "Villarreal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "14",
+        "local": "Sevilla",
+        "marcador": "2 - 2",
+        "visitante": "Deportivo Alaves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "14",
+        "local": "Atletico Madrid",
+        "marcador": "1 - 0",
+        "visitante": "Osasuna"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "14",
+        "local": "Barcelona",
+        "marcador": "1 - 0",
+        "visitante": "Espanyol"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "14",
+        "local": "Getafe",
+        "marcador": "4 - 0",
+        "visitante": "Cadiz"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "14",
+        "local": "Granada",
+        "marcador": "1 - 4",
+        "visitante": "Real Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "14",
+        "local": "Elche",
+        "marcador": "0 - 3",
+        "visitante": "Real Betis"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "14",
+        "local": "Real Sociedad",
+        "marcador": "0 - 0",
+        "visitante": "Valencia"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "14",
+        "local": "Rayo Vallecano",
+        "marcador": "3 - 1",
+        "visitante": "Mallorca"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "15",
+        "local": "Athletic Club",
+        "marcador": "2 - 2",
+        "visitante": "Granada"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "15",
+        "local": "Deportivo Alaves",
+        "marcador": "1 - 2",
+        "visitante": "Celta Vigo"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "15",
+        "local": "Valencia",
+        "marcador": "1 - 1",
+        "visitante": "Rayo Vallecano"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "15",
+        "local": "Mallorca",
+        "marcador": "0 - 0",
+        "visitante": "Getafe"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "15",
+        "local": "Villarreal",
+        "marcador": "1 - 3",
+        "visitante": "Barcelona"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "15",
+        "local": "Real Betis",
+        "marcador": "3 - 1",
+        "visitante": "Levante"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "15",
+        "local": "Espanyol",
+        "marcador": "1 - 0",
+        "visitante": "Real Sociedad"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "15",
+        "local": "Cadiz",
+        "marcador": "1 - 4",
+        "visitante": "Atletico Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "15",
+        "local": "Real Madrid",
+        "marcador": "2 - 1",
+        "visitante": "Sevilla"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "15",
+        "local": "Osasuna",
+        "marcador": "1 - 1",
+        "visitante": "Elche"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "9",
+        "local": "Real Madrid",
+        "marcador": "1 - 0",
+        "visitante": "Athletic Club"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "16",
+        "local": "Granada",
+        "marcador": "2 - 1",
+        "visitante": "Deportivo Alaves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "16",
+        "local": "Sevilla",
+        "marcador": "1 - 0",
+        "visitante": "Villarreal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "16",
+        "local": "Barcelona",
+        "marcador": "0 - 1",
+        "visitante": "Real Betis"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "16",
+        "local": "Atletico Madrid",
+        "marcador": "1 - 2",
+        "visitante": "Mallorca"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "16",
+        "local": "Real Sociedad",
+        "marcador": "0 - 2",
+        "visitante": "Real Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "16",
+        "local": "Rayo Vallecano",
+        "marcador": "1 - 0",
+        "visitante": "Espanyol"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "16",
+        "local": "Elche",
+        "marcador": "3 - 1",
+        "visitante": "Cadiz"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "16",
+        "local": "Levante",
+        "marcador": "0 - 0",
+        "visitante": "Osasuna"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "16",
+        "local": "Celta Vigo",
+        "marcador": "1 - 2",
+        "visitante": "Valencia"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "16",
+        "local": "Getafe",
+        "marcador": "0 - 0",
+        "visitante": "Athletic Club"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "17",
+        "local": "Mallorca",
+        "marcador": "0 - 0",
+        "visitante": "Celta Vigo"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "17",
+        "local": "Espanyol",
+        "marcador": "4 - 3",
+        "visitante": "Levante"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "17",
+        "local": "Deportivo Alaves",
+        "marcador": "1 - 1",
+        "visitante": "Getafe"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "17",
+        "local": "Valencia",
+        "marcador": "2 - 1",
+        "visitante": "Elche"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "17",
+        "local": "Athletic Club",
+        "marcador": "0 - 1",
+        "visitante": "Sevilla"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "17",
+        "local": "Villarreal",
+        "marcador": "2 - 0",
+        "visitante": "Rayo Vallecano"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "17",
+        "local": "Osasuna",
+        "marcador": "2 - 2",
+        "visitante": "Barcelona"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "17",
+        "local": "Real Betis",
+        "marcador": "4 - 0",
+        "visitante": "Real Sociedad"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "17",
+        "local": "Real Madrid",
+        "marcador": "2 - 0",
+        "visitante": "Atletico Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "17",
+        "local": "Cadiz",
+        "marcador": "1 - 1",
+        "visitante": "Granada"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "18",
+        "local": "Celta Vigo",
+        "marcador": "3 - 1",
+        "visitante": "Espanyol"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "18",
+        "local": "Rayo Vallecano",
+        "marcador": "2 - 0",
+        "visitante": "Deportivo Alaves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "18",
+        "local": "Real Sociedad",
+        "marcador": "1 - 3",
+        "visitante": "Villarreal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "18",
+        "local": "Barcelona",
+        "marcador": "3 - 2",
+        "visitante": "Elche"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "18",
+        "local": "Sevilla",
+        "marcador": "2 - 1",
+        "visitante": "Atletico Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "18",
+        "local": "Granada",
+        "marcador": "4 - 1",
+        "visitante": "Mallorca"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "18",
+        "local": "Athletic Club",
+        "marcador": "3 - 2",
+        "visitante": "Real Betis"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "18",
+        "local": "Getafe",
+        "marcador": "1 - 0",
+        "visitante": "Osasuna"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "18",
+        "local": "Real Madrid",
+        "marcador": "0 - 0",
+        "visitante": "Cadiz"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "18",
+        "local": "Levante",
+        "marcador": "3 - 4",
+        "visitante": "Valencia"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "4",
+        "local": "Villarreal",
+        "marcador": "5 - 2",
+        "visitante": "Deportivo Alaves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "4",
+        "local": "Sevilla",
+        "marcador": "1 - 1",
+        "visitante": "Barcelona"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "9",
+        "local": "Granada",
+        "marcador": "2 - 1",
+        "visitante": "Atletico Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "21",
+        "local": "Athletic Club",
+        "marcador": "1 - 2",
+        "visitante": "Real Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "19",
+        "local": "Valencia",
+        "marcador": "1 - 2",
+        "visitante": "Espanyol"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "19",
+        "local": "Getafe",
+        "marcador": "1 - 0",
+        "visitante": "Real Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "19",
+        "local": "Atletico Madrid",
+        "marcador": "2 - 0",
+        "visitante": "Rayo Vallecano"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "19",
+        "local": "Elche",
+        "marcador": "0 - 0",
+        "visitante": "Granada"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "19",
+        "local": "Deportivo Alaves",
+        "marcador": "1 - 1",
+        "visitante": "Real Sociedad"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "19",
+        "local": "Real Betis",
+        "marcador": "0 - 2",
+        "visitante": "Celta Vigo"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "19",
+        "local": "Mallorca",
+        "marcador": "0 - 1",
+        "visitante": "Barcelona"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "19",
+        "local": "Villarreal",
+        "marcador": "5 - 0",
+        "visitante": "Levante"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "19",
+        "local": "Osasuna",
+        "marcador": "1 - 3",
+        "visitante": "Athletic Club"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "19",
+        "local": "Cadiz",
+        "marcador": "0 - 1",
+        "visitante": "Sevilla"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "20",
+        "local": "Levante",
+        "marcador": "2 - 0",
+        "visitante": "Mallorca"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "20",
+        "local": "Real Sociedad",
+        "marcador": "1 - 0",
+        "visitante": "Celta Vigo"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "20",
+        "local": "Granada",
+        "marcador": "1 - 1",
+        "visitante": "Barcelona"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "20",
+        "local": "Real Madrid",
+        "marcador": "4 - 1",
+        "visitante": "Valencia"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "20",
+        "local": "Rayo Vallecano",
+        "marcador": "1 - 1",
+        "visitante": "Real Betis"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "20",
+        "local": "Sevilla",
+        "marcador": "1 - 0",
+        "visitante": "Getafe"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "20",
+        "local": "Deportivo Alaves",
+        "marcador": "0 - 0",
+        "visitante": "Athletic Club"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "20",
+        "local": "Osasuna",
+        "marcador": "2 - 0",
+        "visitante": "Cadiz"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "20",
+        "local": "Villarreal",
+        "marcador": "2 - 2",
+        "visitante": "Atletico Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "20",
+        "local": "Espanyol",
+        "marcador": "1 - 2",
+        "visitante": "Elche"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "21",
+        "local": "Elche",
+        "marcador": "1 - 0",
+        "visitante": "Villarreal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "21",
+        "local": "Real Betis",
+        "marcador": "4 - 0",
+        "visitante": "Deportivo Alaves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "21",
+        "local": "Cadiz",
+        "marcador": "2 - 2",
+        "visitante": "Espanyol"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "21",
+        "local": "Celta Vigo",
+        "marcador": "2 - 0",
+        "visitante": "Osasuna"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "21",
+        "local": "Valencia",
+        "marcador": "1 - 1",
+        "visitante": "Sevilla"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "21",
+        "local": "Getafe",
+        "marcador": "4 - 2",
+        "visitante": "Granada"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "22",
+        "local": "Espanyol",
+        "marcador": "1 - 4",
+        "visitante": "Real Betis"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "22",
+        "local": "Levante",
+        "marcador": "0 - 2",
+        "visitante": "Cadiz"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "22",
+        "local": "Villarreal",
+        "marcador": "3 - 0",
+        "visitante": "Mallorca"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "22",
+        "local": "Sevilla",
+        "marcador": "2 - 2",
+        "visitante": "Celta Vigo"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "22",
+        "local": "Atletico Madrid",
+        "marcador": "3 - 2",
+        "visitante": "Valencia"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "22",
+        "local": "Granada",
+        "marcador": "0 - 2",
+        "visitante": "Osasuna"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "22",
+        "local": "Real Madrid",
+        "marcador": "2 - 2",
+        "visitante": "Elche"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "22",
+        "local": "Rayo Vallecano",
+        "marcador": "0 - 1",
+        "visitante": "Athletic Club"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "22",
+        "local": "Real Sociedad",
+        "marcador": "0 - 0",
+        "visitante": "Getafe"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "22",
+        "local": "Deportivo Alaves",
+        "marcador": "0 - 1",
+        "visitante": "Barcelona"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "23",
+        "local": "Getafe",
+        "marcador": "3 - 0",
+        "visitante": "Levante"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "23",
+        "local": "Elche",
+        "marcador": "3 - 1",
+        "visitante": "Deportivo Alaves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "23",
+        "local": "Mallorca",
+        "marcador": "2 - 1",
+        "visitante": "Cadiz"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "23",
+        "local": "Celta Vigo",
+        "marcador": "2 - 0",
+        "visitante": "Rayo Vallecano"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "23",
+        "local": "Osasuna",
+        "marcador": "0 - 0",
+        "visitante": "Sevilla"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "23",
+        "local": "Valencia",
+        "marcador": "0 - 0",
+        "visitante": "Real Sociedad"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "23",
+        "local": "Barcelona",
+        "marcador": "4 - 2",
+        "visitante": "Atletico Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "23",
+        "local": "Real Betis",
+        "marcador": "0 - 2",
+        "visitante": "Villarreal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "23",
+        "local": "Real Madrid",
+        "marcador": "1 - 0",
+        "visitante": "Granada"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "23",
+        "local": "Athletic Club",
+        "marcador": "2 - 1",
+        "visitante": "Espanyol"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "24",
+        "local": "Sevilla",
+        "marcador": "2 - 0",
+        "visitante": "Elche"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "24",
+        "local": "Cadiz",
+        "marcador": "0 - 0",
+        "visitante": "Celta Vigo"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "24",
+        "local": "Villarreal",
+        "marcador": "0 - 0",
+        "visitante": "Real Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "24",
+        "local": "Rayo Vallecano",
+        "marcador": "0 - 3",
+        "visitante": "Osasuna"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "24",
+        "local": "Atletico Madrid",
+        "marcador": "4 - 3",
+        "visitante": "Getafe"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "24",
+        "local": "Deportivo Alaves",
+        "marcador": "2 - 1",
+        "visitante": "Valencia"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "24",
+        "local": "Levante",
+        "marcador": "2 - 4",
+        "visitante": "Real Betis"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "24",
+        "local": "Real Sociedad",
+        "marcador": "2 - 0",
+        "visitante": "Granada"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "24",
+        "local": "Espanyol",
+        "marcador": "2 - 2",
+        "visitante": "Barcelona"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "24",
+        "local": "Mallorca",
+        "marcador": "3 - 2",
+        "visitante": "Athletic Club"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "21",
+        "local": "Atletico Madrid",
+        "marcador": "0 - 1",
+        "visitante": "Levante"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "25",
+        "local": "Elche",
+        "marcador": "2 - 1",
+        "visitante": "Rayo Vallecano"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "25",
+        "local": "Granada",
+        "marcador": "1 - 4",
+        "visitante": "Villarreal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "25",
+        "local": "Osasuna",
+        "marcador": "0 - 3",
+        "visitante": "Atletico Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "25",
+        "local": "Cadiz",
+        "marcador": "1 - 1",
+        "visitante": "Getafe"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "25",
+        "local": "Real Madrid",
+        "marcador": "3 - 0",
+        "visitante": "Deportivo Alaves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "25",
+        "local": "Espanyol",
+        "marcador": "1 - 1",
+        "visitante": "Sevilla"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "25",
+        "local": "Valencia",
+        "marcador": "1 - 4",
+        "visitante": "Barcelona"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "25",
+        "local": "Real Betis",
+        "marcador": "2 - 1",
+        "visitante": "Mallorca"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "25",
+        "local": "Athletic Club",
+        "marcador": "4 - 0",
+        "visitante": "Real Sociedad"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "25",
+        "local": "Celta Vigo",
+        "marcador": "1 - 1",
+        "visitante": "Levante"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "26",
+        "local": "Levante",
+        "marcador": "3 - 0",
+        "visitante": "Elche"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "26",
+        "local": "Mallorca",
+        "marcador": "0 - 1",
+        "visitante": "Valencia"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "26",
+        "local": "Getafe",
+        "marcador": "2 - 2",
+        "visitante": "Deportivo Alaves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "26",
+        "local": "Rayo Vallecano",
+        "marcador": "0 - 1",
+        "visitante": "Real Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "26",
+        "local": "Atletico Madrid",
+        "marcador": "2 - 0",
+        "visitante": "Celta Vigo"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "26",
+        "local": "Villarreal",
+        "marcador": "5 - 1",
+        "visitante": "Espanyol"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "26",
+        "local": "Sevilla",
+        "marcador": "2 - 1",
+        "visitante": "Real Betis"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "26",
+        "local": "Real Sociedad",
+        "marcador": "1 - 0",
+        "visitante": "Osasuna"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "26",
+        "local": "Barcelona",
+        "marcador": "4 - 0",
+        "visitante": "Athletic Club"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "26",
+        "local": "Granada",
+        "marcador": "0 - 0",
+        "visitante": "Cadiz"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "21",
+        "local": "Mallorca",
+        "marcador": "0 - 2",
+        "visitante": "Real Sociedad"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "27",
+        "local": "Deportivo Alaves",
+        "marcador": "0 - 0",
+        "visitante": "Sevilla"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "27",
+        "local": "Osasuna",
+        "marcador": "1 - 0",
+        "visitante": "Villarreal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "27",
+        "local": "Espanyol",
+        "marcador": "2 - 0",
+        "visitante": "Getafe"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "27",
+        "local": "Valencia",
+        "marcador": "3 - 1",
+        "visitante": "Granada"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "27",
+        "local": "Real Madrid",
+        "marcador": "4 - 1",
+        "visitante": "Real Sociedad"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "27",
+        "local": "Cadiz",
+        "marcador": "2 - 0",
+        "visitante": "Rayo Vallecano"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "27",
+        "local": "Elche",
+        "marcador": "1 - 2",
+        "visitante": "Barcelona"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "27",
+        "local": "Celta Vigo",
+        "marcador": "4 - 3",
+        "visitante": "Mallorca"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "27",
+        "local": "Real Betis",
+        "marcador": "1 - 3",
+        "visitante": "Atletico Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "27",
+        "local": "Athletic Club",
+        "marcador": "3 - 1",
+        "visitante": "Levante"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "28",
+        "local": "Atletico Madrid",
+        "marcador": "2 - 1",
+        "visitante": "Cadiz"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "28",
+        "local": "Levante",
+        "marcador": "1 - 1",
+        "visitante": "Espanyol"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "28",
+        "local": "Granada",
+        "marcador": "0 - 1",
+        "visitante": "Elche"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "28",
+        "local": "Villarreal",
+        "marcador": "1 - 0",
+        "visitante": "Celta Vigo"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "28",
+        "local": "Getafe",
+        "marcador": "0 - 0",
+        "visitante": "Valencia"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "28",
+        "local": "Rayo Vallecano",
+        "marcador": "1 - 1",
+        "visitante": "Sevilla"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "28",
+        "local": "Real Betis",
+        "marcador": "1 - 0",
+        "visitante": "Athletic Club"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "28",
+        "local": "Real Sociedad",
+        "marcador": "1 - 0",
+        "visitante": "Deportivo Alaves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "28",
+        "local": "Barcelona",
+        "marcador": "4 - 0",
+        "visitante": "Osasuna"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "28",
+        "local": "Mallorca",
+        "marcador": "0 - 3",
+        "visitante": "Real Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "29",
+        "local": "Athletic Club",
+        "marcador": "1 - 1",
+        "visitante": "Getafe"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "29",
+        "local": "Deportivo Alaves",
+        "marcador": "2 - 3",
+        "visitante": "Granada"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "29",
+        "local": "Elche",
+        "marcador": "0 - 1",
+        "visitante": "Valencia"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "29",
+        "local": "Osasuna",
+        "marcador": "3 - 1",
+        "visitante": "Levante"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "29",
+        "local": "Rayo Vallecano",
+        "marcador": "0 - 1",
+        "visitante": "Atletico Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "29",
+        "local": "Espanyol",
+        "marcador": "1 - 0",
+        "visitante": "Mallorca"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "29",
+        "local": "Cadiz",
+        "marcador": "1 - 0",
+        "visitante": "Villarreal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "29",
+        "local": "Celta Vigo",
+        "marcador": "0 - 0",
+        "visitante": "Real Betis"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "29",
+        "local": "Sevilla",
+        "marcador": "0 - 0",
+        "visitante": "Real Sociedad"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "29",
+        "local": "Real Madrid",
+        "marcador": "0 - 4",
+        "visitante": "Barcelona"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "30",
+        "local": "Getafe",
+        "marcador": "1 - 0",
+        "visitante": "Mallorca"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "30",
+        "local": "Levante",
+        "marcador": "2 - 0",
+        "visitante": "Villarreal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "30",
+        "local": "Celta Vigo",
+        "marcador": "1 - 2",
+        "visitante": "Real Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "30",
+        "local": "Atletico Madrid",
+        "marcador": "4 - 1",
+        "visitante": "Deportivo Alaves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "30",
+        "local": "Athletic Club",
+        "marcador": "2 - 1",
+        "visitante": "Elche"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "30",
+        "local": "Real Betis",
+        "marcador": "4 - 1",
+        "visitante": "Osasuna"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "30",
+        "local": "Granada",
+        "marcador": "2 - 2",
+        "visitante": "Rayo Vallecano"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "30",
+        "local": "Valencia",
+        "marcador": "0 - 0",
+        "visitante": "Cadiz"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "30",
+        "local": "Barcelona",
+        "marcador": "1 - 0",
+        "visitante": "Sevilla"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "30",
+        "local": "Real Sociedad",
+        "marcador": "1 - 0",
+        "visitante": "Espanyol"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "31",
+        "local": "Sevilla",
+        "marcador": "4 - 2",
+        "visitante": "Granada"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "31",
+        "local": "Cadiz",
+        "marcador": "1 - 2",
+        "visitante": "Real Betis"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "31",
+        "local": "Mallorca",
+        "marcador": "1 - 0",
+        "visitante": "Atletico Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "31",
+        "local": "Villarreal",
+        "marcador": "1 - 1",
+        "visitante": "Athletic Club"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "31",
+        "local": "Real Madrid",
+        "marcador": "2 - 0",
+        "visitante": "Getafe"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "31",
+        "local": "Osasuna",
+        "marcador": "1 - 0",
+        "visitante": "Deportivo Alaves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "31",
+        "local": "Espanyol",
+        "marcador": "1 - 0",
+        "visitante": "Celta Vigo"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "31",
+        "local": "Elche",
+        "marcador": "1 - 2",
+        "visitante": "Real Sociedad"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "31",
+        "local": "Levante",
+        "marcador": "2 - 3",
+        "visitante": "Barcelona"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "31",
+        "local": "Rayo Vallecano",
+        "marcador": "1 - 1",
+        "visitante": "Valencia"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "32",
+        "local": "Real Sociedad",
+        "marcador": "0 - 0",
+        "visitante": "Real Betis"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "32",
+        "local": "Elche",
+        "marcador": "3 - 0",
+        "visitante": "Mallorca"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "32",
+        "local": "Deportivo Alaves",
+        "marcador": "1 - 0",
+        "visitante": "Rayo Vallecano"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "32",
+        "local": "Valencia",
+        "marcador": "1 - 2",
+        "visitante": "Osasuna"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "32",
+        "local": "Getafe",
+        "marcador": "1 - 2",
+        "visitante": "Villarreal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "32",
+        "local": "Granada",
+        "marcador": "1 - 4",
+        "visitante": "Levante"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "32",
+        "local": "Atletico Madrid",
+        "marcador": "2 - 1",
+        "visitante": "Espanyol"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "32",
+        "local": "Athletic Club",
+        "marcador": "0 - 2",
+        "visitante": "Celta Vigo"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "32",
+        "local": "Sevilla",
+        "marcador": "2 - 3",
+        "visitante": "Real Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "32",
+        "local": "Barcelona",
+        "marcador": "0 - 1",
+        "visitante": "Cadiz"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "33",
+        "local": "Mallorca",
+        "marcador": "2 - 1",
+        "visitante": "Deportivo Alaves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "33",
+        "local": "Real Betis",
+        "marcador": "0 - 1",
+        "visitante": "Elche"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "33",
+        "local": "Villarreal",
+        "marcador": "2 - 0",
+        "visitante": "Valencia"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "33",
+        "local": "Atletico Madrid",
+        "marcador": "0 - 0",
+        "visitante": "Granada"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "33",
+        "local": "Celta Vigo",
+        "marcador": "0 - 2",
+        "visitante": "Getafe"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "33",
+        "local": "Osasuna",
+        "marcador": "1 - 3",
+        "visitante": "Real Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "33",
+        "local": "Espanyol",
+        "marcador": "0 - 1",
+        "visitante": "Rayo Vallecano"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "33",
+        "local": "Levante",
+        "marcador": "2 - 3",
+        "visitante": "Sevilla"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "33",
+        "local": "Cadiz",
+        "marcador": "2 - 3",
+        "visitante": "Athletic Club"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "33",
+        "local": "Real Sociedad",
+        "marcador": "0 - 1",
+        "visitante": "Barcelona"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "21",
+        "local": "Barcelona",
+        "marcador": "0 - 1",
+        "visitante": "Rayo Vallecano"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "34",
+        "local": "Sevilla",
+        "marcador": "1 - 1",
+        "visitante": "Cadiz"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "34",
+        "local": "Deportivo Alaves",
+        "marcador": "2 - 1",
+        "visitante": "Villarreal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "34",
+        "local": "Real Madrid",
+        "marcador": "4 - 0",
+        "visitante": "Espanyol"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "34",
+        "local": "Valencia",
+        "marcador": "1 - 1",
+        "visitante": "Levante"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "34",
+        "local": "Athletic Club",
+        "marcador": "2 - 0",
+        "visitante": "Atletico Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "34",
+        "local": "Elche",
+        "marcador": "1 - 1",
+        "visitante": "Osasuna"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "34",
+        "local": "Granada",
+        "marcador": "1 - 1",
+        "visitante": "Celta Vigo"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "34",
+        "local": "Rayo Vallecano",
+        "marcador": "1 - 1",
+        "visitante": "Real Sociedad"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "34",
+        "local": "Barcelona",
+        "marcador": "2 - 1",
+        "visitante": "Mallorca"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "34",
+        "local": "Getafe",
+        "marcador": "0 - 0",
+        "visitante": "Real Betis"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "35",
+        "local": "Levante",
+        "marcador": "2 - 1",
+        "visitante": "Real Sociedad"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "35",
+        "local": "Mallorca",
+        "marcador": "2 - 6",
+        "visitante": "Granada"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "35",
+        "local": "Athletic Club",
+        "marcador": "0 - 0",
+        "visitante": "Valencia"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "35",
+        "local": "Cadiz",
+        "marcador": "3 - 0",
+        "visitante": "Elche"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "35",
+        "local": "Celta Vigo",
+        "marcador": "4 - 0",
+        "visitante": "Deportivo Alaves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "35",
+        "local": "Real Betis",
+        "marcador": "1 - 2",
+        "visitante": "Barcelona"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "35",
+        "local": "Getafe",
+        "marcador": "0 - 0",
+        "visitante": "Rayo Vallecano"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "35",
+        "local": "Villarreal",
+        "marcador": "1 - 1",
+        "visitante": "Sevilla"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "35",
+        "local": "Espanyol",
+        "marcador": "1 - 1",
+        "visitante": "Osasuna"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "35",
+        "local": "Atletico Madrid",
+        "marcador": "1 - 0",
+        "visitante": "Real Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "36",
+        "local": "Valencia",
+        "marcador": "0 - 3",
+        "visitante": "Real Betis"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "36",
+        "local": "Granada",
+        "marcador": "1 - 0",
+        "visitante": "Athletic Club"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "36",
+        "local": "Barcelona",
+        "marcador": "3 - 1",
+        "visitante": "Celta Vigo"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "36",
+        "local": "Deportivo Alaves",
+        "marcador": "2 - 1",
+        "visitante": "Espanyol"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "36",
+        "local": "Osasuna",
+        "marcador": "1 - 1",
+        "visitante": "Getafe"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "36",
+        "local": "Sevilla",
+        "marcador": "0 - 0",
+        "visitante": "Mallorca"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "36",
+        "local": "Elche",
+        "marcador": "0 - 2",
+        "visitante": "Atletico Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "36",
+        "local": "Real Sociedad",
+        "marcador": "3 - 0",
+        "visitante": "Cadiz"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "36",
+        "local": "Rayo Vallecano",
+        "marcador": "1 - 5",
+        "visitante": "Villarreal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "36",
+        "local": "Real Madrid",
+        "marcador": "6 - 0",
+        "visitante": "Levante"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "37",
+        "local": "Espanyol",
+        "marcador": "1 - 1",
+        "visitante": "Valencia"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "37",
+        "local": "Athletic Club",
+        "marcador": "2 - 0",
+        "visitante": "Osasuna"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "37",
+        "local": "Atletico Madrid",
+        "marcador": "1 - 1",
+        "visitante": "Sevilla"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "37",
+        "local": "Cadiz",
+        "marcador": "1 - 1",
+        "visitante": "Real Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "37",
+        "local": "Celta Vigo",
+        "marcador": "1 - 0",
+        "visitante": "Elche"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "37",
+        "local": "Getafe",
+        "marcador": "0 - 0",
+        "visitante": "Barcelona"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "37",
+        "local": "Levante",
+        "marcador": "3 - 1",
+        "visitante": "Deportivo Alaves"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "37",
+        "local": "Mallorca",
+        "marcador": "2 - 1",
+        "visitante": "Rayo Vallecano"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "37",
+        "local": "Real Betis",
+        "marcador": "2 - 0",
+        "visitante": "Granada"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "37",
+        "local": "Villarreal",
+        "marcador": "1 - 2",
+        "visitante": "Real Sociedad"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "38",
+        "local": "Rayo Vallecano",
+        "marcador": "2 - 4",
+        "visitante": "Levante"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "38",
+        "local": "Real Madrid",
+        "marcador": "0 - 0",
+        "visitante": "Real Betis"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "38",
+        "local": "Valencia",
+        "marcador": "2 - 0",
+        "visitante": "Celta Vigo"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "38",
+        "local": "Elche",
+        "marcador": "3 - 1",
+        "visitante": "Getafe"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "38",
+        "local": "Deportivo Alaves",
+        "marcador": "0 - 1",
+        "visitante": "Cadiz"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "38",
+        "local": "Granada",
+        "marcador": "0 - 0",
+        "visitante": "Espanyol"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "38",
+        "local": "Osasuna",
+        "marcador": "0 - 2",
+        "visitante": "Mallorca"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "38",
+        "local": "Barcelona",
+        "marcador": "0 - 2",
+        "visitante": "Villarreal"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "38",
+        "local": "Real Sociedad",
+        "marcador": "1 - 2",
+        "visitante": "Atletico Madrid"
+    },
+    {
+        "temporada": "2021/2022",
+        "ronda": "38",
+        "local": "Sevilla",
+        "marcador": "1 - 0",
+        "visitante": "Athletic Club"
+    }
+]
