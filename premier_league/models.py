@@ -12,23 +12,39 @@ class BplTable(models.Model):
     losses = models.IntegerField()
     goal_diff = models.CharField(max_length=100)
 
+    def __str__(self):
+        return f"{self.position} - {self.team}"
 
-class BplMatch(models.Model):
-    temporada = models.CharField(max_length=100)
+
+class BplGames(models.Model):
+    season = models.CharField(max_length=100)
     round_number = models.IntegerField()
     home_team = models.CharField(max_length=100)
-    score = models.CharField(max_length=10)
+    home_score = models.IntegerField()
+    away_score = models.IntegerField()
     away_team = models.CharField(max_length=100)
 
-# class TeamMatches(models.Model):
-#     pass
-
-
-# class Player(models.Model):
-#     name = models.CharField(max_length=100)
-#     team = models.ForeignKey(Table, on_delete=models.CASCADE)
+    def __str__(self):
+        return f"{self.season} / {self.round_number}"
     
 
-# class GoalScorer(models.Model):
-#     player = models.ForeignKey(Player, on_delete=models.CASCADE)
-#     goals = models.IntegerField()
+# class BplMatch(models.Model):
+#     temporada = models.CharField(max_length=100)
+#     round_number = models.IntegerField()
+#     home_team = models.CharField(max_length=100)
+#     home_score = models.IntegerField()
+#     away_score = models.IntegerField()
+#     away_team = models.CharField(max_length=100)
+
+#     def __str__(self):
+#         return f"{self.season} / {self.round_number}"
+
+
+
+class BplTeamsGoalsData(models.Model):
+    nombre = models.CharField(max_length=100)
+    goles_anotados = models.IntegerField(default=0)
+    goles_recibidos = models.IntegerField(default=0)
+
+    def __str__(self):
+        return self.nombre

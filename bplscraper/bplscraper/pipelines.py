@@ -6,8 +6,8 @@
 
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
-from premier_league.models import BplMatch, BplTable
-from .items import BplscraperMatches, BplscraperStats, BplscraperTable
+from premier_league.models import BplGames, BplTable, BplTeamsGoalsData
+from .items import BplscraperGames, BplscraperStats, BplscraperTable
 from asgiref.sync import sync_to_async
 from scrapy.exceptions import DropItem
 
@@ -26,21 +26,28 @@ class BplscraperPipeline:
                 losses=item['perdidos'],
                 goal_diff=item['gol_dif'],
             )
-            # Save the team if it doesn't exist already
+            # Si el equipo no esta creado, lo guarda
             return {
-                'table': self.model_to_dict(table)  # Convert the Table object to a dictionary
+                'table': self.model_to_dict(table)  # Convierte la tabla en un diccionario
             }
-
-        if isinstance(item, BplscraperMatches):
-            match = await sync_to_async(BplMatch.objects.create)(
-                temporada=item['temporada'],
+        
+        if isinstance(item, BplscraperGames):
+            # Split the 'marcador' field
+            home_score, away_score = map(int, item['marcador'].split('-'))
+        
+            # Create or update the BplGames object
+            match_instance, _ = await sync_to_async(BplGames.objects.get_or_create)(
+                season=item['temporada'],
                 round_number=item['ronda'],
                 home_team=item['local'],
-                score=item['marcador'],
-                away_team=item['visitante']
+                away_team=item['visitante'],
+                defaults={
+                    'home_score': home_score,
+                    'away_score': away_score,
+                }
             )
             return {
-                'match': self.model_to_dict(match)  # Convert the Match object to a dictionary
+                'match_instance': self.model_to_dict(match_instance)
             }
 
         # If the item type is not recognized, drop it
@@ -54,6 +61,41 @@ class BplscraperPipeline:
             field.name: getattr(model_instance, field.name)
             for field in model_instance._meta.fields
         }
+
+
+# class BplTeamsGoalsPipeline:
+#     def process_item(self, item, spider):
+#         # Extract data from the scraped item
+#         local = item['local']
+#         visitante = item['visitante']
+#         marcador = item['marcador']
+
+        # # Calculate goals scored and conceded
+        # goles_local, goles_visitante = map(int, marcador.split('-'))
+
+        # # Update BplTeamsGoalsData model
+        # local_team, _ = BplTeamsGoalsData.objects.get_or_create(nombre=local)
+        # local_team.goles_anotados += goles_local
+        # local_team.goles_recibidos += goles_visitante
+        # local_team.save()
+
+#         visitante_team, _ = BplTeamsGoalsData.objects.get_or_create(nombre=visitante)
+#         visitante_team.goles_anotados += goles_visitante
+#         visitante_team.goles_recibidos += goles_local
+#         visitante_team.save()
+
+#         return item
+
+
+
+
+
+
+
+
+
+
+
 
 
 # class BplscraperPipeline:

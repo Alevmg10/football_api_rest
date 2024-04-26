@@ -17,8 +17,7 @@ class BplscraperTable(scrapy.Item):
     gol_dif = scrapy.Field() 
     
 
-
-class BplscraperMatches(scrapy.Item):
+class BplscraperGames(scrapy.Item):
     temporada = scrapy.Field()
     ronda = scrapy.Field()
     local = scrapy.Field()
@@ -32,11 +31,3 @@ class BplscraperStats(scrapy.Item):
     nombre_jugador = scrapy.Field()
     goles = scrapy.Field()
     equipo = scrapy.Field()
-
-
-class BplscraperMatchesLasted(scrapy.Item):
-    temporada = scrapy.Field()
-    ronda = scrapy.Field()
-    local = scrapy.Field()
-    marcador = scrapy.Field()
-    visitante = scrapy.Field()
