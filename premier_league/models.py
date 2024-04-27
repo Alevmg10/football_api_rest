@@ -26,6 +26,18 @@ class BplGames(models.Model):
 
     def __str__(self):
         return f"{self.season} / {self.round_number}"
+
+
+class BplMatches(models.Model):
+    season = models.CharField(max_length=100)
+    round_number = models.IntegerField()
+    home_team = models.CharField(max_length=100)
+    home_score = models.CharField(max_length=5)
+    away_score = models.CharField(max_length=5)
+    away_team = models.CharField(max_length=100)
+
+    def __str__(self):
+        return f"{self.season} / {self.round_number}"
     
 
 # class BplMatch(models.Model):

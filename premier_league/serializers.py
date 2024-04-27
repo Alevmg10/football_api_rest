@@ -11,3 +11,9 @@ class MatchSerializer(serializers.ModelSerializer):
     class Meta:
         model = BplGames
         fields = ['season', 'round_number', 'home_team', 'home_score','away_score', 'away_team']
+
+
+class CurrentMatchSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = BplGames
+        fields = ['season', 'round_number', 'home_team', 'home_score','away_score', 'away_team']

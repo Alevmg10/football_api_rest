@@ -100,17 +100,24 @@ class CurrentRoundMatches(scrapy.Spider):
         for match in matches:
             round_number = int(match['round'])
             items = BplscraperGames()
-            if round_number == current_round:
-                try:
-                    items['temporada'] = season
-                    items['ronda'] = round_number
-                    items['local'] = match['home']['name']
-                    #items['marcador'] = match['status']['scoreStr']
-                    items['visitante'] = match['away']['name']
-                    yield items
-                except KeyError:
-                    pass
-            yield items
+            if not match["status"]["finished"]:
+                if round_number == current_round:
+                    try:
+                        items['temporada'] = season
+                        items['ronda'] = round_number
+                        items['local'] = match['home']['name']
+                        items['marcador'] = "Sin jugar"
+                        items['visitante'] = match['away']['name']
+                        yield items
+                    except KeyError:
+                        pass
+            # else:
+            #     items['temporada'] = season
+            #     items['ronda'] = round_number
+            #     items['local'] = match['home']['name']
+            #     items['marcador'] = 'Sin jugar'
+            #     items['visitante'] = match['away']['name']
+            #     yield items
             
 
 
