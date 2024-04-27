@@ -16,7 +16,7 @@ class TableView(APIView):
     
 
 class MatchList(generics.ListAPIView):
-    queryset = BplGames.objects.all()
+    queryset = BplMatches.objects.all()
     serializer_class = CurrentMatchSerializer
 
     def get_queryset(self):
@@ -50,7 +50,5 @@ class MatchList(generics.ListAPIView):
         return queryset
 
 class TodayMatches(generics.ListAPIView):
-    def get(self, request):
-        queryset = BplMatches.objects.all()
-        serializer_class = CurrentMatchSerializer(queryset, many=True)
-        return Response(serializer_class.data)
+    queryset = BplMatches.objects.all()
+    serializer_class = CurrentMatchSerializer

@@ -6,7 +6,7 @@
 
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
-from premier_league.models import BplGames, BplTable, BplTeamsGoalsData, BplMatches
+from premier_league.models import BplGames, BplTable, BplMatches
 from .items import BplscraperGames, BplscraperStats, BplscraperTable
 from asgiref.sync import sync_to_async
 from scrapy.exceptions import DropItem

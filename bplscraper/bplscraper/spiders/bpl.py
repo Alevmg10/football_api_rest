@@ -61,7 +61,7 @@ class BplGames(scrapy.Spider):
 
         for rounds in matches['allMatches']:
             calendario_items = BplscraperGames()
-            if not rounds["status"]["cancelled"]:
+            if rounds["status"]["finished"]:
                 try:
                     calendario_items['temporada'] = season
                     calendario_items['ronda'] = rounds['round']
@@ -111,13 +111,6 @@ class CurrentRoundMatches(scrapy.Spider):
                         yield items
                     except KeyError:
                         pass
-            # else:
-            #     items['temporada'] = season
-            #     items['ronda'] = round_number
-            #     items['local'] = match['home']['name']
-            #     items['marcador'] = 'Sin jugar'
-            #     items['visitante'] = match['away']['name']
-            #     yield items
             
 
 
