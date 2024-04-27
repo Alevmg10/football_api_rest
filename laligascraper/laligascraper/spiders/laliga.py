@@ -1,6 +1,6 @@
 import scrapy
 import json
-from ..items import LigascraperTable, LigascraperMatches, LigascraperMatchesLasted
+from ..items import LigascraperTable, LigascraperGames
 
 class LaligaTable(scrapy.Spider):
     name = "laliga_table"
@@ -36,24 +36,37 @@ class LaligaTable(scrapy.Spider):
                 yield elementos
 
 
-class LaligaMatches(scrapy.Spider):
-    name = 'laliga_matches'
+class LaligaGames(scrapy.Spider):
+    name = 'laliga_games'
     allowed_domains = ["fotmob.com/"]
-    start_urls = ['https://www.fotmob.com/api/leagues?id=87&ccode3=VEN']
 
     custom_settings = {
-        'FEEDS': { './laligascraper/spiders/data/2023_2024_calendario_y_resultados.json': { 'format': 'json', 'overwrite': True},
-                    './laligascraper/spiders/data/2023_2024_calendario_y_resultados.csv': {'format': 'csv', 'overwrite': True},
+        'FEEDS': { './laligascraper/spiders/data/calendario_y_resultados.json': { 'format': 'json', 'overwrite': True},
+                    './laligascraper/spiders/data/calendario_y_resultados.csv': {'format': 'csv', 'overwrite': True},
                     }
         }
 
+    def start_requests(self):
+        urls = [
+            'https://www.fotmob.com/api/leagues?id=87&ccode3=VEN',
+            'https://www.fotmob.com/api/leagues?id=87&ccode3=VEN&season=2022%2F2023',
+            'https://www.fotmob.com/api/leagues?id=87&ccode3=VEN&season=2021%2F2022',
+            'https://www.fotmob.com/api/leagues?id=87&ccode3=VEN&season=2020%2F2021',
+            'https://www.fotmob.com/api/leagues?id=87&ccode3=VEN&season=2019%2F2020',
+            'https://www.fotmob.com/api/leagues?id=87&ccode3=VEN&season=2018%2F2019',
+            'https://www.fotmob.com/api/leagues?id=87&ccode3=VEN&season=2017%2F2018',
+            'https://www.fotmob.com/api/leagues?id=87&ccode3=VEN&season=2016%2F2017',   
+        ]
+        for url in urls:
+            yield scrapy.Request(url, callback=self.parse)
+
     def parse(self, response):
         data = json.loads(response.body)
         matches = data['matches']
         season = data['details']['selectedSeason']
 
         for rounds in matches['allMatches']:
-            calendario_items = LigascraperMatches()
+            calendario_items = LigascraperGames()
             if not rounds["status"]["cancelled"]:
                 try:
                     calendario_items['temporada'] = season
@@ -68,43 +81,6 @@ class LaligaMatches(scrapy.Spider):
                 calendario_items['temporada'] = season
                 calendario_items['ronda'] = rounds['round']
                 calendario_items['local'] = rounds['home']['name']
-                calendario_items['marcador'] = 'Pospuesto'
-                calendario_items['visitante'] = rounds['away']['name']
-                yield calendario_items
-
-
-class BplMatchesLastedSeason(scrapy.Spider):
-    name = 'laliga_matches_lasted'
-    allowed_domains = ["fotmob.com/"]
-    start_urls = ['https://www.fotmob.com/api/leagues?id=87&ccode3=VEN&season=2018%2F2019']
-
-    custom_settings = {
-            'FEEDS': { './laligascraper/spiders/data/2018_2019_calendario_y_resultados.json': { 'format': 'json', 'overwrite': True}
-                }
-            }
-    
-    def parse(self, response):
-        data = json.loads(response.body)
-        matches = data['matches']
-        season = data['details']['selectedSeason']
-
-        calendario_items = LigascraperMatchesLasted()
-
-        for rounds in matches['allMatches']:
-            if not rounds["status"]["cancelled"]:
-                try:
-                    calendario_items['temporada'] = season
-                    calendario_items['ronda'] = rounds['round']
-                    calendario_items['local'] = rounds['home']['name']
-                    calendario_items['marcador'] = rounds['status']['scoreStr']
-                    calendario_items['visitante'] = rounds['away']['name']
-                    yield calendario_items
-                except KeyError:
-                    pass
-            else:
-                calendario_items['temporada'] = season
-                calendario_items['ronda'] = rounds['round']
-                calendario_items['local'] = rounds['home']['name']
-                calendario_items['marcador'] = 'Pospuesto'
+                calendario_items['marcador'] = 'Sin Jugar'
                 calendario_items['visitante'] = rounds['away']['name']
                 yield calendario_items

@@ -19,7 +19,7 @@ class LigascraperTable(scrapy.Item):
     
 
 
-class LigascraperMatches(scrapy.Item):
+class LigascraperGames(scrapy.Item):
     temporada = scrapy.Field()
     ronda = scrapy.Field()
     local = scrapy.Field()

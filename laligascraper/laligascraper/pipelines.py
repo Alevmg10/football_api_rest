@@ -6,8 +6,8 @@
 
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
-from la_liga.models import LaligaMatch, LaligaTable
-from .items import LigascraperMatches, LigascraperStats, LigascraperTable
+from la_liga.models import LaligaGames, LaligaTable
+from .items import LigascraperGames, LigascraperStats, LigascraperTable
 from asgiref.sync import sync_to_async
 from scrapy.exceptions import DropItem
 
@@ -31,16 +31,23 @@ class LaligascraperPipeline:
                 'table': self.model_to_dict(table)  # Convert the Table object to a dictionary
             }
 
-        if isinstance(item, LigascraperMatches):
-            match = await sync_to_async(LaligaMatch.objects.create)(
-                temporada=item['temporada'],
+        if isinstance(item, LigascraperGames):
+            # Separar campo 'marcador'
+            home_score, away_score = map(int, item['marcador'].split('-'))
+        
+            # Create or update the BplGames object
+            match_instance, _ = await sync_to_async(LaligaGames.objects.get_or_create)(
+                season=item['temporada'],
                 round_number=item['ronda'],
                 home_team=item['local'],
-                score=item['marcador'],
-                away_team=item['visitante']
+                away_team=item['visitante'],
+                defaults={
+                    'home_score': home_score,
+                    'away_score': away_score,
+                }
             )
             return {
-                'match': self.model_to_dict(match)  # Convert the Match object to a dictionary
+                'match_instance': self.model_to_dict(match_instance)
             }
 
         # If the item type is not recognized, drop it
