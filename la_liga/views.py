@@ -5,6 +5,7 @@ from rest_framework.views import APIView
 from .models import LaligaTable, LaligaGames
 from django.db.models import Q
 from .serializers import LigaTableSerializer, LigaMatchSerializer
+from core.probabilidades import Probabilidades
 
 
 class LaligaTableView(APIView):
@@ -27,7 +28,7 @@ class LaligaMatchList(generics.ListAPIView):
         round_number = self.request.query_params.get('round_number')
         team = self.request.query_params.get('team')
 
-        # Filter by season if provided, otherwise default to '2023/2024'
+        # Filtrar por temporada sin esta es dada
         if season:
             queryset = queryset.filter(season=season)
         else:

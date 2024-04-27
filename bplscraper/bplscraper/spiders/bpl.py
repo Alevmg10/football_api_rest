@@ -34,8 +34,7 @@ class BplTable(scrapy.Spider):
                 perdidos=elemento["losses"],
                 gol_dif=elemento["goalConDiff"]
             )
-                yield elementos
-        
+                yield elementos        
 
 
 class BplGames(scrapy.Spider):
@@ -81,23 +80,39 @@ class BplGames(scrapy.Spider):
                 yield calendario_items
 
 
+class CurrentRoundMatches(scrapy.Spider):
+    name = "bpl_current_matches"
+    allowed_domains = ["fotmob.com/"]
+    start_urls = ["https://www.fotmob.com/api/leagues?id=47&ccode3=VEN"]
 
-    # def update_teams_data(self, match):
-    #     local_team_name = match['home']['name']
-    #     visitante_team_name = match['away']['name']
-    #     goles_local, goles_visitante = map(int, match['status']['scoreStr'].split('-'))
+    custom_settings = {
+        'FEEDS': { './bplscraper/spiders/data/jornada_actual.json': { 'format': 'json', 'overwrite': True},
+                    './bplscraper/spiders/data/jornada_actual.csv': {'format': 'csv', 'overwrite': True},
+                    }
+        }
 
-    #     # Create or update BplTeamsGoalsData model
-    #     local_team, _ = BplTeamsGoalsData.objects.get_or_create(nombre=local_team_name)
-    #     local_team.goles_anotados += goles_local
-    #     local_team.goles_recibidos += goles_visitante
-    #     local_team.save()
+    def parse(self, response):
+        data = json.loads(response.body)
+        season = data['details']['selectedSeason']
+        current_round = int(data["matches"]["firstUnplayedMatch"]["firstRoundWithUnplayedMatch"])
+        matches = data['matches']['allMatches']
 
-    #     visitante_team, _ = BplTeamsGoalsData.objects.get_or_create(nombre=visitante_team_name)
-    #     visitante_team.goles_anotados += goles_visitante
-    #     visitante_team.goles_recibidos += goles_local
-    #     visitante_team.save()
-        
+        for match in matches:
+            round_number = int(match['round'])
+            items = BplscraperGames()
+            if round_number == current_round:
+                try:
+                    items['temporada'] = season
+                    items['ronda'] = round_number
+                    items['local'] = match['home']['name']
+                    #items['marcador'] = match['status']['scoreStr']
+                    items['visitante'] = match['away']['name']
+                    yield items
+                except KeyError:
+                    pass
+            yield items
+            
+
 
 
 # class BplPlayerStats(scrapy.Spider):
