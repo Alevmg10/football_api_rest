@@ -40,44 +40,60 @@ class BplTable(scrapy.Spider):
 class BplGames(scrapy.Spider):
     name = 'bpl_games'
     allowed_domains = ["fotmob.com/"]
-    def start_requests(self):
-        urls = [
-            'https://www.fotmob.com/api/leagues?id=47&ccode3=VEN',
-            'https://www.fotmob.com/api/leagues?id=47&ccode3=VEN&season=2022%2F2023',
-            'https://www.fotmob.com/api/leagues?id=47&ccode3=VEN&season=2021%2F2022',
-            'https://www.fotmob.com/api/leagues?id=47&ccode3=VEN&season=2020%2F2021',
-            'https://www.fotmob.com/api/leagues?id=47&ccode3=VEN&season=2019%2F2020',
-            'https://www.fotmob.com/api/leagues?id=47&ccode3=VEN&season=2018%2F2019',
-            'https://www.fotmob.com/api/leagues?id=47&ccode3=VEN&season=2017%2F2018',
-            'https://www.fotmob.com/api/leagues?id=47&ccode3=VEN&season=2016%2F2017',
-        ]
-        for url in urls:
-            yield scrapy.Request(url, callback=self.parse)
+    start_urls = ["https://www.fotmob.com/api/leagues?id=47&ccode3=VEN"]
+
+
+    custom_settings = {
+        'FEEDS': { './bplscraper/spiders/data/todas_las_jornadas.json': { 'format': 'json', 'overwrite': True},
+                    './bplscraper/spiders/data/todas_las_jornadas.csv': {'format': 'csv', 'overwrite': True},
+                    }
+        }
+    
+    # def start_requests(self):
+    #     urls = [
+    #         'https://www.fotmob.com/api/leagues?id=47&ccode3=VEN',
+    #         'https://www.fotmob.com/api/leagues?id=47&ccode3=VEN&season=2022%2F2023',
+    #         'https://www.fotmob.com/api/leagues?id=47&ccode3=VEN&season=2021%2F2022',
+    #         'https://www.fotmob.com/api/leagues?id=47&ccode3=VEN&season=2020%2F2021',
+    #         'https://www.fotmob.com/api/leagues?id=47&ccode3=VEN&season=2019%2F2020',
+    #         'https://www.fotmob.com/api/leagues?id=47&ccode3=VEN&season=2018%2F2019',
+    #         'https://www.fotmob.com/api/leagues?id=47&ccode3=VEN&season=2017%2F2018',
+    #         'https://www.fotmob.com/api/leagues?id=47&ccode3=VEN&season=2016%2F2017',
+    #     ]
+    #     for url in urls:
+    #         yield scrapy.Request(url, callback=self.parse)
 
     def parse(self, response):
         data = json.loads(response.body)
         matches = data['matches']
-        season = data['details']['selectedSeason']
-
+        
+        
         for rounds in matches['allMatches']:
             calendario_items = BplscraperGames()
-            if rounds["status"]["finished"]:
+            seasons = data['details']['selectedSeason']
+            if not rounds["status"]["cancelled"]:
                 try:
-                    calendario_items['temporada'] = season
+                    calendario_items['temporada'] = seasons
                     calendario_items['ronda'] = rounds['round']
                     calendario_items['local'] = rounds['home']['name']
                     calendario_items['marcador'] = rounds['status']['scoreStr']
                     calendario_items['visitante'] = rounds['away']['name']
                     yield calendario_items
                 except KeyError:
-                    pass
-            else:
-                calendario_items['temporada'] = season
-                calendario_items['ronda'] = rounds['round']
-                calendario_items['local'] = rounds['home']['name']
-                calendario_items['marcador'] = 'Sin jugar'
-                calendario_items['visitante'] = rounds['away']['name']
-                yield calendario_items
+                    calendario_items['temporada'] = seasons
+                    calendario_items['ronda'] = rounds['round']
+                    calendario_items['local'] = rounds['home']['name']
+                    calendario_items['marcador'] = 'Sin Jugar'
+                    calendario_items['visitante'] = rounds['away']['name']
+                    yield calendario_items
+                # else:
+                #     calendario_items['temporada'] = seasons
+                #     calendario_items['ronda'] = rounds['round']
+                #     calendario_items['local'] = rounds['home']['name']
+                #     calendario_items['marcador'] = 'Sin Jugar'
+                #     calendario_items['visitante'] = rounds['away']['name']
+                #     yield calendario_items
+                
 
 
 class CurrentRoundMatches(scrapy.Spider):

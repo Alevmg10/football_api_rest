@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .models import BplTable, BplGames, BplMatches
+from .models import BplTable, BplGames, BplMatchesTest
 
 class TableSerializer(serializers.ModelSerializer):
     class Meta:
@@ -15,5 +15,5 @@ class MatchSerializer(serializers.ModelSerializer):
 
 class CurrentMatchSerializer(serializers.ModelSerializer):
     class Meta:
-        model = BplMatches
+        model = BplMatchesTest
         fields = '__all__'

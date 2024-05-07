@@ -6,7 +6,7 @@
 
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
-from premier_league.models import BplGames, BplTable, BplMatches
+from premier_league.models import BplGames, BplTable, BplMatchesTest
 from .items import BplscraperGames, BplscraperStats, BplscraperTable
 from asgiref.sync import sync_to_async
 from scrapy.exceptions import DropItem
@@ -32,24 +32,12 @@ class BplscraperPipeline:
             }
         
         if isinstance(item, BplscraperGames):
-            if item["marcador"]:
-                match_instance, _ = await sync_to_async(BplMatches.objects.get_or_create)(
-                    season=item['temporada'],
-                    round_number=item['ronda'],
-                    home_team=item['local'],
-                    home_score="Sin Jugar",
-                    away_score="Sin jugar",
-                    away_team=item['visitante'],
-                )
-                return {
-                    'match_instance': self.model_to_dict(match_instance)
-                    }
-            else:
+            try:
                 # Separar campo 'marcador'
                 home_score, away_score = map(int, item['marcador'].split('-'))
         
                 # Create or update the BplGames object
-                match_instance, _ = await sync_to_async(BplMatches.objects.get_or_create)(
+                match_instance, _ = await sync_to_async(BplMatchesTest.objects.get_or_create)(
                     season=item['temporada'],
                     round_number=item['ronda'],
                     home_team=item['local'],
@@ -61,7 +49,22 @@ class BplscraperPipeline:
                 )
                 return {
                     'match_instance': self.model_to_dict(match_instance)
+                }
+            except ValueError:
+                # Create or update the BplGames object
+                match_instance, _ = await sync_to_async(BplMatchesTest.objects.get_or_create)(
+                    season=item['temporada'],
+                    round_number=item['ronda'],
+                    home_team=item['local'],
+                    away_team=item['visitante'],
+                    defaults={
+                        'home_score': "Sin Jugar",
+                        'away_score': "Sin Jugar",
                     }
+                )
+                return {
+                    'match_instance': self.model_to_dict(match_instance)
+                }
 
         # If the item type is not recognized, drop it
         raise DropItem(f"Unsupported item type: {type(item)}")
