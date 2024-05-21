@@ -2,7 +2,7 @@ from django.shortcuts import render
 from rest_framework import generics
 from rest_framework.response import Response
 from rest_framework.views import APIView
-from .models import BplTable, BplGames, BplMatchesTest
+from .models import BplTable, BplGames, BplMatches, BplMatchesTestAll
 from django.db.models import Q
 from .serializers import TableSerializer, MatchSerializer, CurrentMatchSerializer
 
@@ -16,7 +16,7 @@ class TableView(APIView):
     
 
 class MatchList(generics.ListAPIView):
-    queryset = BplMatchesTest.objects.all()
+    queryset = BplMatchesTestAll.objects.all()
     serializer_class = MatchSerializer
 
     def get_queryset(self):

@@ -40,7 +40,7 @@ class BplMatches(models.Model):
         return f"{self.season} / {self.round_number}"
     
 
-class BplMatchesTest(models.Model):
+class BplMatchesTestAll(models.Model):
     season = models.CharField(max_length=100)
     round_number = models.IntegerField()
     home_team = models.CharField(max_length=100)
@@ -49,4 +49,4 @@ class BplMatchesTest(models.Model):
     away_team = models.CharField(max_length=100)
 
     def __str__(self):
-        return f"{self.season} / {self.round_number}"
+        return f"{self.home_team}/{self.away_team} - {self.round_number}"

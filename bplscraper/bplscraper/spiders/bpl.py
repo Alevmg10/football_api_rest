@@ -66,34 +66,39 @@ class BplGames(scrapy.Spider):
     def parse(self, response):
         data = json.loads(response.body)
         matches = data['matches']
-        
-        
+        seasons = data['details']['selectedSeason']
         for rounds in matches['allMatches']:
             calendario_items = BplscraperGames()
-            seasons = data['details']['selectedSeason']
-            if not rounds["status"]["cancelled"]:
-                try:
-                    calendario_items['temporada'] = seasons
-                    calendario_items['ronda'] = rounds['round']
-                    calendario_items['local'] = rounds['home']['name']
-                    calendario_items['marcador'] = rounds['status']['scoreStr']
-                    calendario_items['visitante'] = rounds['away']['name']
-                    yield calendario_items
-                except KeyError:
-                    calendario_items['temporada'] = seasons
-                    calendario_items['ronda'] = rounds['round']
-                    calendario_items['local'] = rounds['home']['name']
-                    calendario_items['marcador'] = 'Sin Jugar'
-                    calendario_items['visitante'] = rounds['away']['name']
-                    yield calendario_items
-                # else:
-                #     calendario_items['temporada'] = seasons
-                #     calendario_items['ronda'] = rounds['round']
-                #     calendario_items['local'] = rounds['home']['name']
-                #     calendario_items['marcador'] = 'Sin Jugar'
-                #     calendario_items['visitante'] = rounds['away']['name']
-                #     yield calendario_items
-                
+            calendario_items['temporada'] = seasons
+            calendario_items['ronda'] = rounds['round']
+            calendario_items['local'] = rounds['home']['name']
+            calendario_items['visitante'] = rounds['away']['name']
+
+            if rounds["status"].get("finished") or rounds["status"].get("scoreStr"):
+                calendario_items['marcador'] = rounds['status'].get('scoreStr', 'Sin Jugar')
+            else:
+                calendario_items['marcador'] = 'Sin Jugar'
+
+            yield calendario_items
+            
+        # for rounds in matches['allMatches']:
+        #     calendario_items = BplscraperGames()
+        #     seasons = data['details']['selectedSeason']
+        #     if rounds["status"]["finished"]:
+        #         try:
+        #             calendario_items['temporada'] = seasons
+        #             calendario_items['ronda'] = rounds['round']
+        #             calendario_items['local'] = rounds['home']['name']
+        #             calendario_items['marcador'] = rounds['status']['scoreStr']
+        #             calendario_items['visitante'] = rounds['away']['name']
+        #             yield calendario_items
+        #         except KeyError:
+        #             calendario_items['temporada'] = seasons
+        #             calendario_items['ronda'] = rounds['round']
+        #             calendario_items['local'] = rounds['home']['name']
+        #             calendario_items['marcador'] = 'Sin Jugar'
+        #             calendario_items['visitante'] = rounds['away']['name']
+        #             yield calendario_items
 
 
 class CurrentRoundMatches(scrapy.Spider):
