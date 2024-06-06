@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'bplscraper',
     'laligascraper',
     'la_liga',
+    'brasil_a',
 ]
 
 MIDDLEWARE = [

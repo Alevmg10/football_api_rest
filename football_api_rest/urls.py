@@ -16,8 +16,9 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from premier_league.views import MatchList, TableView #, TodayMatches
+from premier_league.views import MatchList, TableView
 from la_liga.views import LaligaTableView, LaligaMatchList
+from brasil_a.views import BrasilATableView
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -26,4 +27,5 @@ urlpatterns = [
     #path('api/premierleague/matches/unplayed_matches/', TodayMatches.as_view(), name='bpl-unplayed'),
     path('api/laliga/table', LaligaTableView.as_view(), name='laliga-table'),
     path('api/laliga/matches/', LaligaMatchList.as_view(), name='laliga-table'),
+    path('api/brasila/table', BrasilATableView.as_view(), name='brasila-table'),
 ]
