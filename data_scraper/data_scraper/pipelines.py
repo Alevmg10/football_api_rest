@@ -7,12 +7,24 @@
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
 from datetime import datetime
-from premier_league.models import BplGames, BplTable, BplMatches, BplMatchesTestAll
+import pytz
+from premier_league.models import BplTable, BplMatchesAll
 from brasil_a.models import BrasilATable, BrasilANextMatches
-from .items import BplscraperGames, BplscraperStats, BplscraperTable, BrasilascraperTable, BrasilascraperNextMatches
-from .items import LigascraperGames, LigascraperStats, LigascraperTable
+from .items import BplscraperGames, BplscraperTable
+from .items import BrasilascraperTable, BrasilascraperNextMatches
+from .items import LigascraperGames, LigascraperTable
 from asgiref.sync import sync_to_async
 from scrapy.exceptions import DropItem
+
+
+def model_to_dict(model_instance):
+    """
+    Convert a Django model instance to a dictionary.
+    """
+    return {
+        field.name: getattr(model_instance, field.name)
+        for field in model_instance._meta.fields
+    }
 
 
 class BplscraperPipeline:
@@ -31,32 +43,44 @@ class BplscraperPipeline:
             )
             # Si el equipo no esta creado, lo guarda
             return {
-                'table': self.model_to_dict(table)  # Convierte la tabla en un diccionario
+                'table': model_to_dict(table)  # Convierte la tabla en un diccionario
             }
         
         if isinstance(item, BplscraperGames):
-             # Extract the match data
+            # Extrae los datos
             season = item['temporada']
+            date_time_str = item['fecha']
             round_number = item['ronda']
             home_team = item['local']
             away_team = item['visitante']
             score_str = item.get('marcador', None)
 
-            # Set default scores
+            # Default score
             home_score = "Sin Jugar"
             away_score = "Sin Jugar"
 
-            # Update scores if available
+            # Actualiza "score" si esta disponible
             if score_str:
                 try:
                     home_score, away_score = map(int, score_str.split('-'))
                 except ValueError:
-                    pass  # Score format is invalid, defaults will be used
+                    pass  # Si "score" es un formato invalido, se usara el dafault
+            
+            # Convierte date_time_str para poder usarse correctamente
+            utc_time = datetime.strptime(date_time_str, '%Y-%m-%dT%H:%M:%SZ')
 
-            # Create or update the BplMatchesTest object
-            match_instance, _ = await sync_to_async(BplMatchesTestAll.objects.get_or_create)(
+            # Convierte tiempo UTC en timepo venezolano
+            utc_zone = pytz.utc
+            venezuela_zone = pytz.timezone('America/Caracas')
+            utc_time = utc_zone.localize(utc_time)
+            venezuela_time = utc_time.astimezone(venezuela_zone)
+            venezuela_time_clean = venezuela_time.replace(tzinfo=None)           
+            
+            # Crea o actualiza el objeto en BplMatchesAll
+            match_instance, _ = await sync_to_async(BplMatchesAll.objects.get_or_create)(
                 season=season,
                 round_number=round_number,
+                date_time=venezuela_time_clean,
                 home_team=home_team,
                 away_team=away_team,
                 defaults={
@@ -64,21 +88,12 @@ class BplscraperPipeline:
                     'away_score': away_score,
                 }
             )
-
             return {
-                    'match_instance': self.model_to_dict(match_instance)
+                    'match_instance': model_to_dict(match_instance)
                 }
 
         return item
-    
-    def model_to_dict(self, model_instance):
-        """
-        Convert a Django model instance to a dictionary.
-        """
-        return {
-            field.name: getattr(model_instance, field.name)
-            for field in model_instance._meta.fields
-        }
+
     
 class BrasilascraperPipeline:
     async def process_item(self, item, spider):
@@ -96,7 +111,7 @@ class BrasilascraperPipeline:
             )
             # Si el equipo no esta creado, lo guarda
             return {
-                'table': self.model_to_dict(table)  # Convierte la tabla en un diccionario
+                'table': model_to_dict(table)  # Convierte la tabla en un diccionario
             }
         
         if isinstance(item, BrasilascraperNextMatches):
@@ -136,12 +151,3 @@ class BrasilascraperPipeline:
                 raise DropItem(f"Invalid data format: {item}")
 
         return item
-
-    def model_to_dict(self, model_instance):
-        """
-        Convert a Django model instance to a dictionary.
-        """
-        return {
-            field.name: getattr(model_instance, field.name)
-            for field in model_instance._meta.fields
-        }

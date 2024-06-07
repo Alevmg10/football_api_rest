@@ -16,37 +16,14 @@ class BplTable(models.Model):
         return f"{self.position} - {self.team}"
 
 
-class BplGames(models.Model):
+class BplMatchesAll(models.Model):
     season = models.CharField(max_length=100)
+    date_time = models.DateTimeField()
     round_number = models.IntegerField()
     home_team = models.CharField(max_length=100)
-    home_score = models.IntegerField()
-    away_score = models.IntegerField()
+    home_score = models.IntegerField(null=True, blank=True)
+    away_score = models.IntegerField(null=True, blank=True)
     away_team = models.CharField(max_length=100)
 
     def __str__(self):
         return f"{self.season} / {self.round_number}"
-
-
-class BplMatches(models.Model):
-    season = models.CharField(max_length=100)
-    round_number = models.IntegerField()
-    home_team = models.CharField(max_length=100)
-    home_score = models.CharField(max_length=100)
-    away_score = models.CharField(max_length=100)
-    away_team = models.CharField(max_length=100)
-
-    def __str__(self):
-        return f"{self.season} / {self.round_number}"
-    
-
-class BplMatchesTestAll(models.Model):
-    season = models.CharField(max_length=100)
-    round_number = models.IntegerField()
-    home_team = models.CharField(max_length=100)
-    home_score = models.CharField(max_length=100)
-    away_score = models.CharField(max_length=100)
-    away_team = models.CharField(max_length=100)
-
-    def __str__(self):
-        return f"{self.home_team}/{self.away_team} - {self.round_number}"

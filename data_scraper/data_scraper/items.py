@@ -20,6 +20,7 @@ class BplscraperTable(scrapy.Item):
 
 class BplscraperGames(scrapy.Item):
     temporada = scrapy.Field()
+    fecha = scrapy.Field()
     ronda = scrapy.Field()
     local = scrapy.Field()
     marcador = scrapy.Field()

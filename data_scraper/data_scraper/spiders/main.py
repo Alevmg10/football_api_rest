@@ -11,11 +11,11 @@ class BplTable(scrapy.Spider):
     allowed_domains = ["fotmob.com/"]
     start_urls = ["https://www.fotmob.com/api/leagues?id=47&ccode3=VEN"]
 
-    custom_settings = {
-        'FEEDS': { './bplscraper/spiders/data/tabla_posiciones.json': { 'format': 'json', 'overwrite': True},
-                    './bplscraper/spiders/data/tabla_posiciones.csv': {'format': 'csv', 'overwrite': True},
-                    }
-        }
+    # custom_settings = {
+    #     'FEEDS': { './bplscraper/spiders/data/tabla_posiciones.json': { 'format': 'json', 'overwrite': True},
+    #                 './bplscraper/spiders/data/tabla_posiciones.csv': {'format': 'csv', 'overwrite': True},
+    #                 }
+    #     }
     
     def parse(self, response):
         data = json.loads(response.body)
@@ -73,6 +73,7 @@ class BplGames(scrapy.Spider):
         for rounds in matches['allMatches']:
             calendario_items = BplscraperGames()
             calendario_items['temporada'] = seasons
+            calendario_items['fecha'] = rounds['status']['utcTime']
             calendario_items['ronda'] = rounds['round']
             calendario_items['local'] = rounds['home']['name']
             calendario_items['visitante'] = rounds['away']['name']

@@ -2,12 +2,12 @@ from django.shortcuts import render
 from rest_framework import generics
 from rest_framework.response import Response
 from rest_framework.views import APIView
-from .models import BplTable, BplGames, BplMatches, BplMatchesTestAll
+from .models import BplTable, BplMatchesAll
 from django.db.models import Q
-from .serializers import TableSerializer, MatchSerializer, CurrentMatchSerializer
+from .serializers import TableSerializer, MatchSerializer
 
 
-class TableView(APIView):
+class BplTableView(APIView):
     def get(self, request):
         # Get the last 20 updates for the Table model in ascending order by id
         last_20_updates = BplTable.objects.order_by('position')[:20]
@@ -15,8 +15,8 @@ class TableView(APIView):
         return Response(serializer.data)
     
 
-class MatchList(generics.ListAPIView):
-    queryset = BplMatchesTestAll.objects.all()
+class BplMatchList(generics.ListAPIView):
+    queryset = BplMatchesAll.objects.all()
     serializer_class = MatchSerializer
 
     def get_queryset(self):

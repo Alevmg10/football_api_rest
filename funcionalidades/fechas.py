@@ -5,7 +5,7 @@ def compare_dates(response_date_str):
     response_date = datetime.strptime(response_date_str, "%Y-%m-%dT%H:%M:%SZ")
 
     # Get the current date and time as a datetime object
-    current_date = datetime.utcnow()
+    current_date = datetime.now()
 
     # Compare the two datetime objects
     if response_date > current_date:
