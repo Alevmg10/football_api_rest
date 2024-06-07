@@ -10,6 +10,7 @@ from datetime import datetime
 import pytz
 from premier_league.models import BplTable, BplMatchesAll
 from brasil_a.models import BrasilATable, BrasilANextMatches
+from la_liga.models import LaligaTable, LaLigaGamesAll
 from .items import BplscraperGames, BplscraperTable
 from .items import BrasilascraperTable, BrasilascraperNextMatches
 from .items import LigascraperGames, LigascraperTable
@@ -149,5 +150,73 @@ class BrasilascraperPipeline:
             except ValueError as e:
                 spider.logger.error(f"ValueError: {e}")
                 raise DropItem(f"Invalid data format: {item}")
+
+        return item
+    
+
+class LaligascraperPipeline:
+    async def process_item(self, item, spider):
+        if isinstance(item, LigascraperTable):
+            table, _ = await sync_to_async(LaligaTable.objects.get_or_create)(
+                season=item['temporada'],
+                position=item['posicion'],
+                team=item['equipo'],
+                points=item['puntos'],
+                played=item['jugados'],
+                wins=item['ganados'],
+                draw=item['empates'],
+                losses=item['perdidos'],
+                goal_diff=item['gol_dif'],
+            )
+            # Si el equipo no esta creado, lo guarda
+            return {
+                'table': model_to_dict(table)  # Convierte la tabla en un diccionario
+            }
+        
+        if isinstance(item, LigascraperGames):
+            # Extrae los datos
+            season = item['temporada']
+            date_time_str = item['fecha']
+            round_number = item['ronda']
+            home_team = item['local']
+            away_team = item['visitante']
+            score_str = item.get('marcador', None)
+
+            # Default score
+            home_score = "Sin Jugar"
+            away_score = "Sin Jugar"
+
+            # Actualiza "score" si esta disponible
+            if score_str:
+                try:
+                    home_score, away_score = map(int, score_str.split('-'))
+                except ValueError:
+                    pass  # Si "score" es un formato invalido, se usara el dafault
+            
+            # Convierte date_time_str para poder usarse correctamente
+            utc_time = datetime.strptime(date_time_str, '%Y-%m-%dT%H:%M:%SZ')
+
+            # Convierte tiempo UTC en timepo venezolano
+            utc_zone = pytz.utc
+            venezuela_zone = pytz.timezone('America/Caracas')
+            utc_time = utc_zone.localize(utc_time)
+            venezuela_time = utc_time.astimezone(venezuela_zone)
+            venezuela_time_clean = venezuela_time.replace(tzinfo=None)           
+            
+            # Crea o actualiza el objeto en BplMatchesAll
+            match_instance, _ = await sync_to_async(LaLigaGamesAll.objects.get_or_create)(
+                season=season,
+                round_number=round_number,
+                date_time=venezuela_time_clean,
+                home_team=home_team,
+                away_team=away_team,
+                defaults={
+                    'home_score': home_score,
+                    'away_score': away_score,
+                }
+            )
+            return {
+                    'match_instance': model_to_dict(match_instance)
+                }
 
         return item

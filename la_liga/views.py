@@ -2,10 +2,10 @@ from django.shortcuts import render
 from rest_framework import generics
 from rest_framework.response import Response
 from rest_framework.views import APIView
-from .models import LaligaTable, LaligaGames
+from .models import LaligaTable, LaLigaGamesAll
 from django.db.models import Q
 from .serializers import LigaTableSerializer, LigaMatchSerializer
-from core.probabilidades import Probabilidades
+from funcionalidades.probabilidades import Probabilidades
 
 
 class LaligaTableView(APIView):
@@ -17,7 +17,7 @@ class LaligaTableView(APIView):
     
 
 class LaligaMatchList(generics.ListAPIView):
-    queryset = LaligaGames.objects.all()
+    queryset = LaLigaGamesAll.objects.all()
     serializer_class = LigaMatchSerializer
 
     def get_queryset(self):

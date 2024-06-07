@@ -145,6 +145,7 @@ class LaligaGames(scrapy.Spider):
         for rounds in matches['allMatches']:
             calendario_items = LigascraperGames()
             calendario_items['temporada'] = seasons
+            calendario_items['fecha'] = rounds['status']['utcTime']
             calendario_items['ronda'] = rounds['round']
             calendario_items['local'] = rounds['home']['name']
             calendario_items['visitante'] = rounds['away']['name']

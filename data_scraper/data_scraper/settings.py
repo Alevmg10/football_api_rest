@@ -72,6 +72,7 @@ ROBOTSTXT_OBEY = False
 ITEM_PIPELINES = {
    "data_scraper.pipelines.BrasilascraperPipeline": 300,
    "data_scraper.pipelines.BplscraperPipeline": 300,
+   "data_scraper.pipelines.LaligascraperPipeline": 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)

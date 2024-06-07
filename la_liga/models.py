@@ -14,10 +14,11 @@ class LaligaTable(models.Model):
 
     def __str__(self):
         return f"{self.position} - {self.team}"
+    
 
-
-class LaligaGames(models.Model):
+class LaLigaGamesAll(models.Model):
     season = models.CharField(max_length=100)
+    date_time = models.DateTimeField()
     round_number = models.IntegerField()
     home_team = models.CharField(max_length=100)
     home_score = models.IntegerField()

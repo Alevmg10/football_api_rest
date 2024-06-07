@@ -1,6 +1,6 @@
 from django.contrib import admin
-from .models import LaligaGames, LaligaTable
+from .models import LaLigaGamesAll, LaligaTable
 
 # Register your models here.
 admin.site.register(LaligaTable)
-admin.site.register(LaligaGames)
+admin.site.register(LaLigaGamesAll)
