@@ -16,13 +16,28 @@ class BrasilATable(models.Model):
         return f"{self.position} - {self.team}"
 
 
-class BrasilANextMatches(models.Model):
+class BrasilAMatchesAll(models.Model):
     season = models.CharField(max_length=100)
     date_time = models.DateTimeField()
     round_number = models.IntegerField()
     home_team = models.CharField(max_length=100)
     home_score = models.IntegerField(null=True, blank=True)
     away_score = models.IntegerField(null=True, blank=True)
+    away_team = models.CharField(max_length=100)
+
+    def __str__(self):
+        return f"{self.season} / {self.round_number}"
+    
+
+class BrasilANextMatches(models.Model):
+    season = models.CharField(max_length=100)
+    date_time = models.DateTimeField()
+    round_number = models.IntegerField()
+    home_team = models.CharField(max_length=100)
+    home_prob = models.CharField(max_length=100, blank=True, null=True)
+    home_score = models.IntegerField(null=True, blank=True)
+    away_score = models.IntegerField(null=True, blank=True)
+    away_prob = models.CharField(max_length=100, blank=True, null=True)
     away_team = models.CharField(max_length=100)
 
     def __str__(self):

@@ -5,7 +5,7 @@ from rest_framework.views import APIView
 from .models import LaligaTable, LaLigaGamesAll
 from django.db.models import Q
 from .serializers import LigaTableSerializer, LigaMatchSerializer
-from funcionalidades.probabilidades import Probabilidades
+from utils.probabilidad import Probabilidades
 
 
 class LaligaTableView(APIView):

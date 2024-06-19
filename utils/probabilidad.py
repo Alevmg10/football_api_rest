@@ -1,5 +1,4 @@
 from scipy.stats import poisson
-from la_liga.models import LaligaGames
 from collections import defaultdict
 
 

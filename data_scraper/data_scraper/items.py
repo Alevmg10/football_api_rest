@@ -67,11 +67,21 @@ class BrasilascraperTable(scrapy.Item):
     perdidos = scrapy.Field()
     gol_dif = scrapy.Field()
 
+class BrasilascraperMatchesAll(scrapy.Item):
+    temporada = scrapy.Field()
+    fecha = scrapy.Field()
+    ronda = scrapy.Field()
+    local = scrapy.Field()
+    marcador = scrapy.Field()
+    visitante = scrapy.Field()
+
 
 class BrasilascraperNextMatches(scrapy.Item):
     temporada = scrapy.Field()
     fecha = scrapy.Field()
     ronda = scrapy.Field()
     local = scrapy.Field()
+    prob_local = scrapy.Field()
     marcador = scrapy.Field()
+    prob_visitante = scrapy.Field()
     visitante = scrapy.Field()

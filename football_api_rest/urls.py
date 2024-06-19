@@ -18,7 +18,7 @@ from django.contrib import admin
 from django.urls import path
 from premier_league.views import BplMatchList, BplTableView
 from la_liga.views import LaligaTableView, LaligaMatchList
-from brasil_a.views import BrasilATableView
+from brasil_a.views import BrasilATableView, BrasilaMatchList, BrasilaNextMatchesView
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -28,4 +28,6 @@ urlpatterns = [
     path('api/laliga/table', LaligaTableView.as_view(), name='laliga-table'),
     path('api/laliga/matches/', LaligaMatchList.as_view(), name='laliga-table'),
     path('api/brasila/table', BrasilATableView.as_view(), name='brasila-table'),
+    path('api/brasila/matches/', BrasilaMatchList.as_view(), name='brasila-matches'),
+    path('api/brasila/matches/next_date/', BrasilaNextMatchesView.as_view(), name='brasila-next-date'),
 ]

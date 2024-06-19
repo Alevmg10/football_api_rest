@@ -3,7 +3,7 @@ import json
 from datetime import datetime, timedelta
 from ..items import BplscraperTable, BplscraperGames
 from ..items import LigascraperTable, LigascraperGames
-from ..items import BrasilascraperTable, BrasilascraperNextMatches
+from ..items import BrasilascraperTable, BrasilascraperNextMatches, BrasilascraperMatchesAll
 
 
 class BplTable(scrapy.Spider):
@@ -186,6 +186,52 @@ class BrasilATable(scrapy.Spider):
                 yield elementos
 
 
+class BplGames(scrapy.Spider):
+    name = 'brasila_matches'
+    allowed_domains = ["fotmob.com/"]
+    #start_urls = ["https://www.fotmob.com/api/leagues?id=268&ccode3=VEN"]
+
+
+    # custom_settings = {
+    #     'FEEDS': { './bplscraper/spiders/data/todas_las_jornadas.json': { 'format': 'json', 'overwrite': True},
+    #                 './bplscraper/spiders/data/todas_las_jornadas.csv': {'format': 'csv', 'overwrite': True},
+    #                 }
+    #     }
+    
+    def start_requests(self):
+        urls = [
+            'https://www.fotmob.com/api/leagues?id=268&ccode3=VEN&season=2023',
+            'https://www.fotmob.com/api/leagues?id=268&ccode3=VEN&season=2022',
+            'https://www.fotmob.com/api/leagues?id=268&ccode3=VEN&season=2021',
+            'https://www.fotmob.com/api/leagues?id=268&ccode3=VEN&season=2020',
+            'https://www.fotmob.com/api/leagues?id=268&ccode3=VEN&season=2019',
+            'https://www.fotmob.com/api/leagues?id=268&ccode3=VEN&season=2018',
+            'https://www.fotmob.com/api/leagues?id=268&ccode3=VEN&season=2017',
+            'https://www.fotmob.com/api/leagues?id=268&ccode3=VEN&season=2016',
+        ]
+        for url in urls:
+            yield scrapy.Request(url, callback=self.parse)
+
+    def parse(self, response):
+        data = json.loads(response.body)
+        matches = data['matches']
+        seasons = data['details']['selectedSeason']
+        for rounds in matches['allMatches']:
+            calendario_items = BrasilascraperMatchesAll()
+            calendario_items['temporada'] = seasons
+            calendario_items['fecha'] = rounds['status']['utcTime']
+            calendario_items['ronda'] = rounds['round']
+            calendario_items['local'] = rounds['home']['name']
+            calendario_items['visitante'] = rounds['away']['name']
+
+            if rounds["status"].get("finished") or rounds["status"].get("scoreStr"):
+                calendario_items['marcador'] = rounds['status'].get('scoreStr', 'Sin Jugar')
+            else:
+                calendario_items['marcador'] = 'Sin Jugar'
+
+            yield calendario_items
+
+   
 class BrasilANextMatches(scrapy.Spider):
     name = "brasila_next_matches"
     allowed_domains = ["fotmob.com/"]
@@ -198,12 +244,30 @@ class BrasilANextMatches(scrapy.Spider):
         today = datetime.now()
         end_date = today + timedelta(days=6)
 
+        # for match in matches:
+        #     match_date = datetime.strptime(match['status']['utcTime'], '%Y-%m-%dT%H:%M:%S.%fZ')
+        #     if today <= match_date <= end_date:
+        #         item = BrasilascraperNextMatches()
+        #         item['temporada'] = seasons
+        #         item['fecha'] = match['status']['utcTime']
+        #         item['ronda'] = match['round']
+        #         item['local'] = match['home']['name']
+        #         item['visitante'] = match['away']['name']
+        #         item['marcador'] = match['status'].get('scoreStr', 'Sin Jugar')
+        #         yield item
+
         for match in matches:
-            match_date = datetime.strptime(match['status']['utcTime'], '%Y-%m-%dT%H:%M:%SZ')
+            # Parse the date considering both formats
+            date_str = match['status']['utcTime']
+            try:
+                match_date = datetime.strptime(date_str, '%Y-%m-%dT%H:%M:%SZ')
+            except ValueError:
+                match_date = datetime.strptime(date_str, '%Y-%m-%dT%H:%M:%S.%fZ')
+            
             if today <= match_date <= end_date:
                 item = BrasilascraperNextMatches()
                 item['temporada'] = seasons
-                item['fecha'] = match['status']['utcTime']
+                item['fecha'] = date_str
                 item['ronda'] = match['round']
                 item['local'] = match['home']['name']
                 item['visitante'] = match['away']['name']
